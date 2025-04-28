@@ -53,17 +53,17 @@
             display-name = "lower";
 
             // --------------------------------------------------------------------------------------------------------------------------------------------
-            // | UNLOCK | ESC    |   `   | F1 |  F2 |   F3  |   F4  |   F5  |                   |   F6  |   F7  |   F8  |  F9 | F10 |  F11 | F12  | BKSPC |
-            // | COPY   | SCRCAP | TAB   | Q  |  W  |   E   |   R   |   T   |                   |   Y   |   U   |   I   |  O  |  P  |   [  |  ]   |   \   |
-            //          | GUI    | CAPS  | A  |  S  |   D   |   F   |   G   |                   |   H   |   J   |   K   |  L  |  ;  |   '  |  UP  |
-            // | PASTE  | CTRL   | SHIFT | Z  |  X  |   C   |   V   |   B   |  MUTE  | |  MUTE  |   N   |   M   |   ,   |  .  |  /  | LEFT | DOWN | RIGHT |
-            //                                      | SHIFT | SPACE | LOWER |                   | RAISE | SPACE | BKSPC |
+            // |BOOTLOADER| ESC    |   `   | F1 |  F2 |   F3  |   F4  |   F5  |                   |   F6  |   F7  |   F8  |  F9 | F10 |  F11 | F12  | BKSPC |
+            // |  COPY    | SCRCAP | TAB   | Q  |  W  |   E   |   R   |   T   |                   |   Y   |   U   |   I   |  O  |  P  |   [  |  ]   |   \   |
+            //            | GUI    | CAPS  | A  |  S  |   D   |   F   |   G   |                   |   H   |   J   |   K   |  L  |  ;  |   '  |  UP  |
+            // |  PASTE   | CTRL   | SHIFT | Z  |  X  |   C   |   V   |   B   |  MUTE  | |  MUTE  |   N   |   M   |   ,   |  .  |  /  | LEFT | DOWN | RIGHT |
+            //                                        | SHIFT | SPACE | LOWER |                   | RAISE | SPACE | BKSPC |
 
             bindings = <
-&bootloader  &bt BT_CLR  &kp GRAVE  &kp F1  &kp F2  &kp F3     &kp F4     &kp F5                              &kp F6  &kp F7     &kp F8     &kp F9   &kp F10   &kp F11   &kp F12        &kp BSPC
+&bootloader  &kp ESC     &kp GRAVE  &kp F1  &kp F2  &kp F3     &kp F4     &kp F5                              &kp F6  &kp F7     &kp F8     &kp F9   &kp F10   &kp F11   &kp F12        &kp BSPC
 &kp LC(C)    &trans      &kp TAB    &kp Q   &kp W   &kp E      &kp R      &kp T                               &kp Y   &kp U      &kp I      &kp O    &kp P     &kp LBKT  &kp BACKSLASH  &kp BSLH
              &kp LGUI    &kp CAPS   &kp A   &kp S   &kp D      &kp F      &kp G                               &kp H   &kp J      &kp K      &kp L    &kp SEMI  &kp SQT   &kp UP
-&kp LC(V)    &kp LCTRL   &kp LALT   &kp Z   &kp X   &kp C      &kp V      &kp B   &kp C_VOL_DN  &kp C_VOL_UP  &kp N   &kp M      &kp COMMA  &kp DOT  &kp FSLH  &kp LEFT  &kp DOWN       &kp RIGHT
+&kp LC(V)    &kp LCTRL   &kp LALT   &kp Z   &kp X   &kp C      &kp V      &kp B   &kp C_MUTE      &kp C_MUTE  &kp N   &kp M      &kp COMMA  &kp DOT  &kp FSLH  &kp LEFT  &kp DOWN       &kp RIGHT
                                                     &kp LSHFT  &kp SPACE  &trans                              &trans  &kp SPACE  &kp DEL
             >;
 
@@ -74,17 +74,17 @@
             display-name = "raise";
 
             // ----------------------------------------------------------------------------------------------------------------------------------------------
-            // | CLEAR | PREV   | NEXT  | BT1 |  BT2 |  BT3  |  BT4  |  BT5  |                   |   F6  |   F7  |   F8  |  F9 | F10 |  F11       | SCROLL DOWN |   UNLOCK    |
-            // | COPY  | SCRCAP | TAB   | Q   |  W   |   E   |   R   |   T   |                   |   Y   |   U   |   I   |  O  |  P  |   [        |  SCROLL UP  | RIGHT CLICK |
-            //         | GUI    | CAPS  | A   |  S   |   D   |   F   |   G   |                   |   H   |   J   |   K   |  L  |  ;  | LEFT CLICK |   MOUSE UP  |
-            // | PASTE | CTRL   | SHIFT | Z   |  X   |   C   |   V   |   B   |  MUTE  | |  MUTE  |   N   |   M   |   ,   |  .  |  /  | MOUSE LEFT |  MOUSE DOWN | MOUSE RIGHT |
-            //                                       | SHIFT | SPACE | LOWER |                   | RAISE | SPACE | BKSPC |
+            // | CLEAR | CLEAR  | CLEAR ALL | BT1 |  BT2 |  BT3  |  BT4  |  BT5  |                   |   F6  |   F7  |   F8  |  F9 | F10 |  F11       |  SCROLL UP  |  BOOTLOADER |
+            // | COPY  | SCRCAP | TAB       | Q   |  W   |   E   |   R   |   T   |                   |   Y   |   U   |   I   |  O  |  P  |   [        | SCROLL DOWN | RIGHT CLICK |
+            //         | GUI    | CAPS      | A   |  S   |   D   |   F   |   G   |                   |   H   |   J   |   K   |  L  |  ;  | LEFT CLICK |   MOUSE UP  |
+            // | PASTE | CTRL   | SHIFT     | Z   |  X   |   C   |   V   |   B   |  MUTE  | |  MUTE  |   N   |   M   |   ,   |  .  |  /  | MOUSE LEFT |  MOUSE DOWN | MOUSE RIGHT |
+            //                                           | SHIFT | SPACE | LOWER |                   | RAISE | SPACE | BKSPC |
 
             bindings = <
-&bt BT_CLR  &bt BT_CLR_ALL  &bt BT_CLR_ALL  &bt BT_SEL 0  &bt BT_SEL 1  &bt BT_SEL 2  &bt BT_SEL 3  &bt BT_SEL 4                              &kp F6  &kp F7     &kp F8     &kp F9   &kp F10   &kp F11         &msc SCRL_UP    &bootloader
+&bt BT_CLR  &bt BT_CLR      &bt BT_CLR_ALL  &bt BT_SEL 0  &bt BT_SEL 1  &bt BT_SEL 2  &bt BT_SEL 3  &bt BT_SEL 4                              &kp F6  &kp F7     &kp F8     &kp F9   &kp F10   &kp F11         &msc SCRL_UP    &bootloader
 &kp LC(C)   &trans          &kp TAB         &kp Q         &kp W         &kp E         &kp R         &kp T                                     &kp Y   &kp U      &kp I      &kp O    &kp P     &mkp MCLK       &msc SCRL_DOWN  &mkp RCLK
             &kp LGUI        &kp CAPS        &kp A         &kp S         &kp D         &kp F         &kp G                                     &kp H   &kp J      &kp K      &kp L    &kp SEMI  &mkp LCLK       &mmv MOVE_UP
-&kp LC(V)   &kp LCTRL       &kp LALT        &kp Z         &kp X         &kp C         &kp V         &kp B         &kp C_VOL_DN  &kp C_VOL_UP  &kp N   &kp M      &kp COMMA  &kp DOT  &kp FSLH  &mmv MOVE_LEFT  &mmv MOVE_DOWN  &mmv MOVE_RIGHT
+&kp LC(V)   &kp LCTRL       &kp LALT        &kp Z         &kp X         &kp C         &kp V         &kp B         &kp C_MUTE      &kp C_MUTE  &kp N   &kp M      &kp COMMA  &kp DOT  &kp FSLH  &mmv MOVE_LEFT  &mmv MOVE_DOWN  &mmv MOVE_RIGHT
                                                                         &kp LSHFT     &kp SPACE     &trans                                    &trans  &kp SPACE  &kp DEL
             >;
 
@@ -93,20 +93,22 @@
 
         adjust_layer {
             // ----------------------------------------------------------------------------------------------------------------------------------------------
-            // | CLEAR | PREV   | NEXT  | BT1 |  BT2 |  BT3  |  BT4  |  BT5  |                   |   F6  |   F7  |   F8  |  F9 | F10 |  F11       | SCROLL DOWN |   UNLOCK    |
-            // | COPY  | SCRCAP | TAB   | Q   |  W   |   E   |   R   |   T   |                   |   Y   |   U   |   I   |  O  |  P  |   [        |  SCROLL UP  | RIGHT CLICK |
-            //         | GUI    | CAPS  | A   |  S   |   D   |   F   |   G   |                   |   H   |   J   |   K   |  L  |  ;  | LEFT CLICK |   MOUSE UP  |
-            // | PASTE | CTRL   | SHIFT | Z   |  X   |   C   |   V   |   B   |  MUTE  | |  MUTE  |   N   |   M   |   ,   |  .  |  /  | MOUSE LEFT |  MOUSE DOWN | MOUSE RIGHT |
-            //                                       | SHIFT | SPACE | LOWER |                   | RAISE | SPACE | BKSPC |
+            // | CLEAR | CLEAR  | CLEAR ALL | BT1 |  BT2 |  BT3  |  BT4  |  BT5  |                   |   F6  |   F7  |   F8  |  F9 | F10 |  F11       |  SCROLL UP  |   CLEAR     |
+            // | COPY  | SCRCAP | TAB       | Q   |  W   |   E   |   R   |   T   |                   |   Y   |   U   |   I   |  O  |  P  |   [        | SCROLL DOWN | RIGHT CLICK |
+            //         | GUI    | CAPS      | A   |  S   |   D   |   F   |   G   |                   |   H   |   J   |   K   |  L  |  ;  | LEFT CLICK |   MOUSE UP  |
+            // | PASTE | CTRL   | SHIFT     | Z   |  X   |   C   |   V   |   B   |  MUTE  | |  MUTE  |   N   |   M   |   ,   |  .  |  /  | MOUSE LEFT |  MOUSE DOWN | MOUSE RIGHT |
+            //                                           | SHIFT | SPACE | LOWER |                   | RAISE | SPACE | BKSPC |
 
             display-name = "adjust";
             bindings = <
-&bt BT_CLR  &bt BT_CLR_ALL  &bt BT_CLR_ALL  &bt BT_SEL 0  &bt BT_SEL 1  &bt BT_SEL 2  &bt BT_SEL 3  &bt BT_SEL 4                          &kp F6  &kp F7     &kp F8     &kp F9   &kp F10   &kp F11         &msc SCRL_UP    &bt BT_CLR
+&bt BT_CLR  &bt BT_CLR      &bt BT_CLR_ALL  &bt BT_SEL 0  &bt BT_SEL 1  &bt BT_SEL 2  &bt BT_SEL 3  &bt BT_SEL 4                          &kp F6  &kp F7     &kp F8     &kp F9   &kp F10   &kp F11         &msc SCRL_UP    &bt BT_CLR
 &kp LC(C)   &trans          &kp TAB         &kp Q         &kp W         &kp E         &kp R         &kp T                                 &kp Y   &kp U      &kp I      &kp O    &kp P     &kp LBKT        &msc SCRL_DOWN  &mkp RCLK
             &kp LGUI        &kp CAPS        &kp A         &kp S         &kp D         &kp F         &kp G                                 &kp H   &kp J      &kp K      &kp L    &kp SEMI  &mkp LCLK       &mmv MOVE_UP
 &kp LC(V)   &kp LCTRL       &kp LALT        &kp Z         &kp X         &kp C         &kp V         &kp B         &kp C_MUTE  &kp C_MUTE  &kp N   &kp M      &kp COMMA  &kp DOT  &kp FSLH  &mmv MOVE_LEFT  &mmv MOVE_DOWN  &mmv MOVE_RIGHT
                                                                         &kp LSHFT     &kp SPACE     &trans                                &trans  &kp SPACE  &kp BSPC
             >;
+
+            sensor-bindings = <&inc_dec_kp C_VOL_UP C_VOL_DN &inc_dec_kp C_VOL_UP C_VOL_DN>;
         };
     };
 };
