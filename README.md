@@ -7,9 +7,9 @@ Edit your Keyboard Keymap Here: [Keymap Editor by Nick Coutsos](https://nickcout
 
 
 >[!Note]
->It is a revision of the [Original Drift Keyboard](https://github.com/Timception/Drift) using Vial-QMK firmware.
->The frame and outer parts of the previous version will all fit on this version as all the screw holes are in the same positions.
->However, the PCB is slightly expanded around the microcontroller area due to it being more populated.
+>It is a revision of the [Original Drift Keyboard](https://github.com/Timception/Drift) using Vial-QMK firmware.\
+>The frame and outer parts of the previous version will all fit on this version as all the screw holes are in the same positions.\
+>However, the PCB is slightly expanded around the microcontroller area due to it being more populated.\
 
 
 You can see more actual builds [-=HERE=-](https://www.instagram.com/majin_keyboards)
