@@ -4,7 +4,7 @@
 
   - Once you turn on your split keyboard you can clear the current bluetooth profile just to make sure it is available by pressing the BT_CLR or BT_CLR_ALL key on layer 3.  
   
-  - You can turn bluetooth on your host device to search for this keyboard and connect to it (show image).  
+  - You can turn bluetooth on your host device to search for this keyboard and connect to it.  
   
   - This keyboard has the ability to connect to 5 devices across 5 Profiles (BT_SEL 0 to BT_SEL 4).  
   
