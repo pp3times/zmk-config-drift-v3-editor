@@ -1,6 +1,6 @@
 # Testing or Fixing your Bluetooth Connection
 
-- Connect to Mutliple Devices  
+- ## Connect to Mutliple Devices  
 
   - Once you turn on your split keyboard you can clear the current bluetooth profile just to make sure it is available by pressing the BT_CLR or BT_CLR_ALL key on layer 3.  
   
@@ -18,6 +18,6 @@
 	
     - If thirsty for more information [CLICK HERE](https://zmk.dev/docs/keymaps/behaviors/bluetooth)  
 
-- Clearing a Bluetooth Profile (also removing keyboard from host device)  
+- ## Clearing a Bluetooth Profile (also removing keyboard from host device)  
 
   - After pressing BT_CLR or BT_CLR_ALL, you will also have to remove the device from your host. Usually this consists of going into the host device's bluetooth settings with bluetooth turned on and manually removing the drift keyboard from the list of devices (if any).  
