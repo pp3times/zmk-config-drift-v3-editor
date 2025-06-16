@@ -94,10 +94,10 @@ This confirms that you can now make your own firmware. Next, let's try and chang
 <img src="images/30.png"><br/><br/>
 
 ### 31. Repeat Steps for the Right Half and Drop the Appropriate Firmware File into its Drive  
-<img src="images/31.jpg"><br/><br/>
+<br/><br/>
 
 ### 32. Test Keys Using This [Online Key Tester](https://www.keyboardtester.com/tester.html) or Download [Switch Hitter](https://www.majorgeeks.com/files/details/switch_hitter.html)  
-<img src="images/32.jpg"><br/><br/>
+<br/><br/>
 
 ## For more information on Behaviours and Key Codes please visit: (ZMK Behaviours)[https://zmk.dev/docs/keymaps/behaviors]  
 
