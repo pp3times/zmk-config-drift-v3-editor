@@ -18,19 +18,19 @@
 
 # The Default/Base Layer (Layer 0)  
 - This is the default layer or layer 0 on this keyboard and the keys are as follows:  
-- <img src="images/0_default_layer.png"><br/><br/>  
+  <img src="images/0_default_layer.png"><br/><br/>  
 
 
 # The Lower Layer (Layer 1)  
 - This is the lower layer or layer 1. This is where the F-Keys and Arrow-Keys are:  
-- <img src="images/1_lower_layer_n.png"><br/><br/>  
+  <img src="images/1_lower_layer_n.png"><br/><br/>  
 
 
 # The Raise Layer (Layer 2)  
 - This is the lower layer or layer 2. This is where the Bluetooth Functions and Mouse Keys are:  
-- <img src="images/2_raise_layer_n.png"><br/><br/>  
+  <img src="images/2_raise_layer_n.png"><br/><br/>  
 
 
 # The Adjust Layer (Layer 3)  
 - This is the adjust layer or layer 3. This is pretty much a clone of Layer 2 as my usage doesn't go beyond 3 layers:  
-- <img src="images/3_adjust_layer_n.png"><br/><br/>  
+  <img src="images/3_adjust_layer_n.png"><br/><br/>  
