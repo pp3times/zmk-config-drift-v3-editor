@@ -30,7 +30,7 @@
 <img src="images/9.png"><br/><br/>
 
 ### 10. Unzip to Find 3 Files: Firmware Files for the Left and Right Keyboard Halves and a Reset File  
-This confirms that you can now make your own firmware. Next, let's try and change some keys.
+This confirms that you can now make your own firmware. Next, let's try and change some keys.  
 <img src="images/10.png"><br/><br/>
 
 ### 11. Go Back to the Repository Page  
