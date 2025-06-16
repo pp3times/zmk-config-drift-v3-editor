@@ -9,7 +9,7 @@
   - This keyboard has the ability to connect to 5 devices across 5 Profiles (BT_SEL 0 to BT_SEL 4).  
   
   - By holding down mo2 as shown below, you have access to the bluetooth functions on the top left half:
-  - <img src="images/Hold_mo2.png"><br/>  
+  - <img src="images/2_raise_layer_n.png"><br/>  
     
     - BT_CLR: Clear the connection between the keyboard and host for the selected profile.  
 	
