@@ -2,7 +2,7 @@
 
 ## Sign Up for a GitHub Account [HERE](https://github.com/)
 
-1. Fork [This Repository](https://github.com/Timception/zmk-config-drift-v3-editor)  ![1 - Fork Repo](https://github.com/user-attachments/assets/ef46a78f-8fab-48b4-bf41-722aab6d5713)
+1. Fork [This Repository](https://github.com/Timception/zmk-config-drift-v3-editor)  <img src="images/1.png" width="400">
 
 2. Set Repository Name and Create Fork  
 3. Go to the Actions Tab  
