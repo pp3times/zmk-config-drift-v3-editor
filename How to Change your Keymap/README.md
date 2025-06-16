@@ -85,7 +85,7 @@ This confirms that you can now make your own firmware. Next, let's try and chang
 <img src="images/27.png"><br/><br/>
 
 ### 28. Plug Left Half of the Drift Keyboard into your Computer then Double-Click the RESET Button  
-<img src="images/28.png"><br/><br/>
+<img src="images/28.jpg"><br/><br/>
 
 ### 29. A New Drive Should Appear (for you to upload your firmware file)  
 <img src="images/29.png"><br/><br/>
@@ -94,10 +94,10 @@ This confirms that you can now make your own firmware. Next, let's try and chang
 <img src="images/30.png"><br/><br/>
 
 ### 31. Repeat Steps for the Right Half and Drop the Appropriate Firmware File into its Drive  
-<img src="images/31.png"><br/><br/>
+<img src="images/31.jpg"><br/><br/>
 
 ### 32. Test Keys Using This [Online Key Tester](https://www.keyboardtester.com/tester.html) or Download [Switch Hitter](https://www.majorgeeks.com/files/details/switch_hitter.html)  
-<img src="images/32.png"><br/><br/>
+<img src="images/32.jpg"><br/><br/>
 
 ## For more information on Behaviours and Key Codes please visit: (ZMK Behaviours)[https://zmk.dev/docs/keymaps/behaviors]  
 
