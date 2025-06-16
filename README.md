@@ -1,5 +1,5 @@
 # Drift Keyboard V3 (by Timception)  
-This is the wireless ZMK version of the Drift Keyboard.  
+This is the wireless ZMK version of the [Original Drift Keyboard](https://github.com/Timception/Drift)  
 
 ### Edit your Keyboard Keymap Here: [Keymap Editor by Nick Coutsos](https://nickcoutsos.github.io/keymap-editor/)  
 <br/>
@@ -10,8 +10,7 @@ This is the wireless ZMK version of the Drift Keyboard.
 <br/><br/>
 
 >[!Note]
->It is a revision of the [Original Drift Keyboard](https://github.com/Timception/Drift) using Vial-QMK firmware.  
->The frame and outer parts of the previous version will all fit on this version as all the screw holes are in the same positions.  
+>The frame and outer parts of the previous version (Drift Keyboard V2) will all fit on this version as all the screw holes are in the same positions.  
 >However, the PCB is slightly expanded around the microcontroller area due to it being more populated.
 
 
