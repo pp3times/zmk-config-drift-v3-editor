@@ -1,8 +1,7 @@
 # Drift Keyboard V3 (by Timception)  
+This is the wireless ZMK version of the Drift Keyboard, an ortholinear 68-key split keyboard with mild columnar stagger.  
 
-## This is the wireless ZMK version of the Drift Keyboard, an ortholinear 68-key split keyboard with mild columnar stagger.  
-
-## Edit your Keyboard Keymap Here: [Keymap Editor by Nick Coutsos](https://nickcoutsos.github.io/keymap-editor/)  
+### Edit your Keyboard Keymap Here: [Keymap Editor by Nick Coutsos](https://nickcoutsos.github.io/keymap-editor/)  
 
 ## Quickstart Guide
 - [Keymap](https://github.com/Timception/zmk-config-drift-v3-editor/tree/main/Keymap)  
