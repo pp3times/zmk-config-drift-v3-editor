@@ -1,6 +1,6 @@
-#How to Change your Keymap
+# How to Change your Keymap
 
-	##Sign Up for a GitHub Account [HERE](https://github.com/)
+	## Sign Up for a GitHub Account [HERE](https://github.com/)
 
 	1. Fork Repository (repo)
 	2. Set Repository Name and Create Fork
