@@ -10,22 +10,27 @@
 
 - You can [change the keys on your keymap](https://github.com/Timception/zmk-config-drift-v3-editor/tree/main/How%20to%20Change%20your%20Keymap) if you prefer different placing of any key.  
 
-> !Note  
+
+> [!Note]  
 > If you are confused about what some of these keys represent, you may find [more information here](https://zmk.dev/docs/keymaps/list-of-keycodes).  
 > Information on layers can also [be found here](https://zmk.dev/docs/keymaps/behaviors/layers).  
 
+
 # The Default/Base Layer (Layer 0)  
 - This is the default layer or layer 0 on this keyboard and the keys are as follows:  
-- image  
+- <img src="images/0_default_layer.png"><br/><br/>  
+
 
 # The Lower Layer (Layer 1)  
 - This is the lower layer or layer 1. This is where the F-Keys and Arrow-Keys are:  
-- image  
+- <img src="images/1_lower_layer_n.png"><br/><br/>  
+
 
 # The Raise Layer (Layer 2)  
 - This is the lower layer or layer 2. This is where the Bluetooth Functions and Mouse Keys are:  
-- image  
+- <img src="images/2_raise_layer_n.png"><br/><br/>  
+
 
 # The Adjust Layer (Layer 3)  
 - This is the adjust layer or layer 3. This is pretty much a clone of Layer 2 as my usage doesn't go beyond 3 layers:  
-- image  
+- <img src="images/3_adjust_layer_n.png"><br/><br/>  
