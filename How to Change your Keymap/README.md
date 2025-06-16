@@ -57,10 +57,10 @@ This confirms that you can now make your own firmware. Next, let's try and chang
 ### 18. Click the Layer Numbers to View Hidden Functions  
 <img src="images/18.png"><br/><br/>
 
-### 19. Access the Bluetooth Functions by Pressing and Holding "mo2" (show image)  
+### 19. You can Access the Bluetooth Functions by Pressing and Holding "mo2"  
 <img src="images/19.png"><br/><br/>
 
-### 20. Bluetooth Functions  
+### 20. Bluetooth Functions (more on this later)  
 <img src="images/20.png"><br/><br/>
 
 ### 21. Click the "Alt" Key to bring up the Behaviour Settings for that Key  
