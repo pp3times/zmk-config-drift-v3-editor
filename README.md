@@ -2,11 +2,11 @@
 This is the wireless ZMK version of the Drift Keyboard.  
 
 ### Edit your Keyboard Keymap Here: [Keymap Editor by Nick Coutsos](https://nickcoutsos.github.io/keymap-editor/)  
-<br/><br/><br/>
+<br/>
 ## Quickstart Guide
 - [Keymap](https://github.com/Timception/zmk-config-drift-v3-editor/tree/main/Keymap)  
 - [How to Change your Keymap](https://github.com/Timception/zmk-config-drift-v3-editor/tree/main/How%20to%20Change%20your%20Keymap)  
-<br/><br/><br/>
+<br/><br/>
 
 >[!Note]
 >It is a revision of the [Original Drift Keyboard](https://github.com/Timception/Drift) using Vial-QMK firmware.  
