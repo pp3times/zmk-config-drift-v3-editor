@@ -30,6 +30,7 @@
 <img src="images/9.png"><br/><br/>
 
 ### 10. Unzip to Find 3 Files: Firmware Files for the Left and Right Keyboard Halves and a Reset File  
+This confirms that you can now make your own firmware. Next, let's try and change some keys.
 <img src="images/10.png"><br/><br/>
 
 ### 11. Go Back to the Repository Page  
@@ -56,10 +57,10 @@
 ### 18. Click the Layer Numbers to View Hidden Functions  
 <img src="images/18.png"><br/><br/>
 
-### 19. Bluetooth Functions  
+### 19. Access the Bluetooth Functions by Pressing and Holding "mo2" (show image)  
 <img src="images/19.png"><br/><br/>
 
-### 20. (swap with no. 19) Access the Bluetooth Functions by Pressing and Holding "mo2" (show image)  
+### 20. Bluetooth Functions  
 <img src="images/20.png"><br/><br/>
 
 ### 21. Click the "Alt" Key to bring up the Behaviour Settings for that Key  
