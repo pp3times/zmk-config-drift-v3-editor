@@ -4,9 +4,9 @@
 
 - If you don't already know, this keyboard comes with open source firmware from [ZMK](https://zmk.dev/) that allows you to have more keys than you can see on your keyboard because they are on extra "layers" that you can access by pressing layer keys similar to the "Fn" (function) key on a laptop or notebook to access volume control or screen brightness etc.  
 
-- Split Keyboards have some terminology and one that I would like to introduce you to is the "Thumb Cluster". The thumb cluster consists of the keys where you would normally press the spacebar. Split Keyboards make much better use of this area and allow you to place and customize more useful keys in this area so you don't have to reach so far to press them.  
+- Split Keyboards have some terminology and one that I would like to introduce you to is the "Thumb Cluster". The thumb cluster consists of the keys where you would normally press the spacebar. Split Keyboards make much better use of this area and allow you to place, and customize more useful keys in this area so you don't have to reach so far to press them.  
 
-- You can see that I have placed the shift and backspace keys on the default keymap for the Drift Keyboard. As well as putting the spacebar in the middle of each thumb cluster because some people hit the spacebar with their left thumb, while others may hit the spacebar with their right thumb.  
+- You can see that I have placed the shift on the left-most thumb cluster key, and backspace on the right-most thumb cluster key. As well as putting the spacebar in the middle of each thumb cluster because some people hit the spacebar with their left thumb, while others may hit the spacebar with their right thumb.  
 
 - You can [change the keys on your keymap](https://github.com/Timception/zmk-config-drift-v3-editor/tree/main/How%20to%20Change%20your%20Keymap) if you prefer different placing of any key.  
 
