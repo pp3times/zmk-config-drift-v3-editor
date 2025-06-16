@@ -12,6 +12,7 @@
 
 
 > [!Note]  
+> The "&trans" keys seen on the thumb clusters on layers 1 and above act as transparent keys, copying the key set on the layer beneath it.  
 > If you are confused about what some of these keys represent, you may find [more information here](https://zmk.dev/docs/keymaps/list-of-keycodes)  
 > Information on layers can also [be found here](https://zmk.dev/docs/keymaps/behaviors/layers)  
 
