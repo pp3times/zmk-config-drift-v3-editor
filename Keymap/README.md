@@ -2,7 +2,7 @@
 
 ## Introduction  
 
-- If you don't already know, this keyboard comes with open source firmware from ZMK that allows you to have more keys than you can see on your keyboard because they are on extra "layers" that you can access by pressing layer keys similar to the "Fn" (function) key on a laptop or notebook to access volume control or screen brightness etc.  
+- If you don't already know, this keyboard comes with open source firmware from [ZMK](https://zmk.dev/) that allows you to have more keys than you can see on your keyboard because they are on extra "layers" that you can access by pressing layer keys similar to the "Fn" (function) key on a laptop or notebook to access volume control or screen brightness etc.  
 
 - Split Keyboards have some terminology and one that I would like to introduce you to is the "Thumb Cluster". The thumb cluster consists of the keys where you would normally press the spacebar. Split Keyboards make much better use of this area and allow you to place and customize more useful keys in this area so you don't have to reach so far to press them.  
 
