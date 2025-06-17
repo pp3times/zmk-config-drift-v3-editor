@@ -9,7 +9,7 @@
 ## Screwing on the PS3 controller battery pack  
 
 1. Make sure this screw is already screwed into the nylon standoff on the other side.  
-<img src="images/1.jpg" width="400"><br/><br/>
+<img src="images/1.jpg" width="500"><br/><br/>
 
 2. Place Bottom Plate Section and Screw in this 12mm screw first.  
 <img src="images/2.jpg"><br/><br/>
