@@ -1,10 +1,10 @@
 # PS3 Battery Pack Assembly  
 
- - [Screwing on the PS3 controller battery pack](#-Screwing-on-the-PS3-controller-battery-pack)
- - [Plugging in the Battery Connector](# Plugging in the Battery Connector)
- - [Plugging in the 4-Pin OLED](# Plugging in the 4-Pin OLED)
- - [Using the 110mAh LiPo Battery instead](# Using the 110mAh LiPo Battery instead)
- - [Replacing the 4-Pin OLED with a Nice!View](# Replacing the 4-Pin OLED with a Nice!View)
+ - [Screwing on the PS3 controller battery pack](#-screwing-on-the-ps3-controller-battery-pack)
+ - [Plugging in the Battery Connector](#plugging-in-the-battery-connector)
+ - [Plugging in the 4-Pin OLED](#plugging-in-the-4-pin-oled)
+ - [Using the 110mAh LiPo Battery instead](#using-the-110mAh-lipo-battery-instead)
+ - [Replacing the 4-Pin OLED with a Nice!View](#replacing-the-4-pin-oled-with-a-nice!view)
 
 ## Screwing on the PS3 controller battery pack  
 
