@@ -3,8 +3,8 @@
  - [Screwing on the PS3 controller battery pack](#-screwing-on-the-ps3-controller-battery-pack)
  - [Plugging in the Battery Connector](#plugging-in-the-battery-connector)
  - [Plugging in the 4-Pin OLED](#plugging-in-the-4-pin-oled)
- - [Using the 110mAh LiPo Battery instead](#using-the-110mAh-lipo-battery-instead)
- - [Replacing the 4-Pin OLED with a NiceView](#replacing-the-4-pin-oled-with-a-niceview)
+ - [Using the 110mAh LiPo Battery instead](# Using the 110mAh LiPo Battery instead)
+ - [Replacing the 4-Pin OLED with a Nice!View](# Replacing the 4-Pin OLED with a Nice!View)
 
 ## Screwing on the PS3 controller battery pack  
 
@@ -93,7 +93,7 @@
 <img src="images/25.jpg"><br/><br/>
 
 
-## Replacing the 4-Pin OLED with a NiceView
+## Replacing the 4-Pin OLED with a Nice!View
 
 26. You can replace the normal OLED with a super efficient screen famously known as the [Nice!View](https://nicekeyboards.com/nice-view/)  
 <img src="images/NiceView.jpg"><br/><br/>
