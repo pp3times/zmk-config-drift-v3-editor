@@ -1,5 +1,4 @@
-## How to Change your Keymap for  
-## The Drift V3 Keyboard by Timception  
+## How to Change your Keymap  
 
 ### Sign Up for a GitHub Account [HERE](https://github.com/) if you haven't already
 
