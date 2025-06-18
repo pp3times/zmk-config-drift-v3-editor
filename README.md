@@ -12,8 +12,11 @@ This is the wireless ZMK version of the [Original Drift Keyboard](https://github
 - [PS3 Battery Pack Assembly](https://github.com/Timception/zmk-config-drift-v3-editor/tree/main/PS3%20Battery%20Pack%20Assembly)  
 <br/><br/>  
 
-## Accessories
- - [Printable Keycaps and Encoder Knobs](https://github.com/Timception/zmk-config-drift-v3-editor/tree/main/printables)  
+## 3D Printable Accessories
+ - [Cherry MX Printable Keycaps](https://github.com/Timception/zmk-config-drift-v3-editor/tree/main/printables/Cherry-MX)  
+ - [Low Profile Printable Keycaps](https://github.com/Timception/zmk-config-drift-v3-editor/tree/main/printables/Low-Profile)
+   
+ - [Encoder Knobs](https://github.com/Timception/zmk-config-drift-v3-editor/tree/main/printables/Encoder-Knobs)  
 <br/><br/>  
 
 >[!Note]
