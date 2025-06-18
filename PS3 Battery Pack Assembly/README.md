@@ -1,10 +1,28 @@
 # PS3 Battery Pack Assembly  
 
+ - [Batteries tested to work with the keyboard](#batteries-tested-to-work-with-the-keyboard)
  - [Screwing on the PS3 controller battery pack](#screwing-on-the-ps3-controller-battery-pack)
  - [Plugging in the Battery Connector](#plugging-in-the-battery-connector)
  - [Plugging in the 4-Pin OLED](#plugging-in-the-4-pin-oled)
  - [Using the 110mAh LiPo Battery instead](#using-the-110mAh-lipo-battery-instead)
  - [Replacing the 4-Pin OLED with a NiceView](#replacing-the-4-pin-oled-with-a-niceview)
+
+## Batteries tested to work with the keyboard
+
+- 1800mAh PS3 Controller Battery (LIP1359)  
+  - [Amazon Item Link](https://a.co/d/4CgXvFp)  
+  - [Aliexpress Item Link](https://www.aliexpress.com/item/1005005213892382.html)  
+  <br/>  
+
+- 120mAh LiPo Battery (401230) + JST PH2.0mm - This battery is small enough to fit under the MCU  
+  - [Aliexpress Item Link](https://www.aliexpress.com/item/1005003383250806.html)  
+  <br/>  
+  
+- 110mAh LiPo Battery (401030) + JST PH2.0mm - This battery is small enough to fit under the MCU  
+  - [Ebay Item Link]([https://a.co/d/4CgXvFp](https://www.ebay.com/itm/124961007813))  
+  - [Aliexpress Item Link](https://www.aliexpress.com/item/1005006161362814.html)  
+  <br/>  
+
 
 ## Screwing on the PS3 controller battery pack  
 
