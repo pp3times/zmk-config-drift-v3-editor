@@ -84,7 +84,7 @@
 <img src="images/22.jpg" width="500"><br/><br/>
 
 23. Check that you have moved the pins to the correct positions as shown before plugging in the battery connector.  
-<img src="images/24.jpg" width="500"><br/><br/>
+<img src="images/23.jpg" width="500"><br/><br/>
 
 24. Carefully push the MCU back into its place with the pins aligned correctly.  
 <img src="images/24.jpg" width="500"><br/><br/>
