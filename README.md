@@ -12,6 +12,9 @@ This is the wireless ZMK version of the [Original Drift Keyboard](https://github
 - [PS3 Battery Pack Assembly](https://github.com/Timception/zmk-config-drift-v3-editor/tree/main/PS3%20Battery%20Pack%20Assembly)  
 <br/><br/>
 
+## Accessories
+ - [Printable Keycaps and Encoder Knobs](https://github.com/Timception/zmk-config-drift-v3-editor/tree/main/PS3%20Battery%20Pack%20Assembly)
+
 >[!Note]
 >The frame and outer parts of the previous version (Drift Keyboard V2) will all fit on this version.  
 >However, the PCB is slightly expanded around the microcontroller area due to it being more populated.
