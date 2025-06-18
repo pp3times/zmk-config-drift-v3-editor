@@ -95,11 +95,13 @@
 
 ## Replacing the 4-Pin OLED with a NiceView
 
-26. You can replace the normal OLED with a super efficient screen famously known as the [Nice!View](https://nicekeyboards.com/nice-view/)  
+26. You can replace the normal OLED with a super efficient screen famously known as the [Nice!View](https://nicekeyboards.com/nice-view/)
+
+> [!Warning]  
+> You will need to flash a [special version of firmware](https://github.com/Timception/zmk-config-drift-nice_view-editor) on to both sides before inserting the Nice!View
+> 
 <img src="images/NiceView.jpg" width="500"><br/><br/>
 
-> [!Warning]
-> You will need to flash a [special version of firmware](https://github.com/Timception/zmk-config-drift-nice_view-editor) on to both sides before inserting the Nice!View
 
 > [!Note]
 > If you forgot how to fork and compile your own firmware, [please refer to this guide](https://github.com/Timception/zmk-config-drift-v3-editor/tree/main/How%20to%20Change%20your%20Keymap)
