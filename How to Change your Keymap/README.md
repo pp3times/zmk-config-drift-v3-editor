@@ -1,6 +1,7 @@
-# How to Change your Keymap for the Drift V3 Keyboard (by Timception)
+## How to Change your Keymap for  
+## The Drift V3 Keyboard by Timception  
 
-## Sign Up for a GitHub Account [HERE](https://github.com/)
+### Sign Up for a GitHub Account [HERE](https://github.com/) if you haven't already
 
 ### 1. Fork [This Repository](https://github.com/Timception/zmk-config-drift-v3-editor)  
 <img src="images/1.png" width="600"><br/><br/>
