@@ -5,19 +5,19 @@ This is the wireless ZMK version of the [Original Drift Keyboard](https://github
 <br/>
 
 ## Quickstart Guide
-- [Keymap](https://github.com/Timception/zmk-config-drift-v3-editor/tree/main/Keymap)  
-- [How to Change your Keymap](https://github.com/Timception/zmk-config-drift-v3-editor/tree/main/How%20to%20Change%20your%20Keymap)  
-- [Testing or Fixing your Bluetooth Connection](https://github.com/Timception/zmk-config-drift-v3-editor/tree/main/Testing%20or%20Fixing%20your%20Bluetooth%20Connection)
-- [Charging and Wired Connection](https://github.com/Timception/zmk-config-drift-v3-editor/tree/main/Charging%20and%20Wired%20Connection)
-- [PS3 Battery Pack Assembly](https://github.com/Timception/zmk-config-drift-v3-editor/tree/main/PS3%20Battery%20Pack%20Assembly)  
+- [Keymap](https://github.com/Timception/zmk-config-drift-v3-editor/tree/main/Keymap) - Key locations on each layer  
+- [How to Change your Keymap](https://github.com/Timception/zmk-config-drift-v3-editor/tree/main/How%20to%20Change%20your%20Keymap) - Detailed guide on how to change your keys  
+- [Testing or Fixing your Bluetooth Connection](https://github.com/Timception/zmk-config-drift-v3-editor/tree/main/Testing%20or%20Fixing%20your%20Bluetooth%20Connection) - Bluetooth connections and troubleshooting
+- [Charging and Wired Connection](https://github.com/Timception/zmk-config-drift-v3-editor/tree/main/Charging%20and%20Wired%20Connection) - How to charge the keyboard and use with USB-C  
+- [PS3 Battery Pack Assembly](https://github.com/Timception/zmk-config-drift-v3-editor/tree/main/PS3%20Battery%20Pack%20Assembly) - Supported batteries and how to install them  
 <br/><br/>  
 
 ## 3D Printable Accessories
- - [Cherry MX Printable Keycaps](https://github.com/Timception/zmk-config-drift-v3-editor/tree/main/printables/Cherry-MX)  
- - [Low Profile Printable Keycaps](https://github.com/Timception/zmk-config-drift-v3-editor/tree/main/printables/Low-Profile)
+ - [Cherry MX Printable Keycaps](https://github.com/Timception/zmk-config-drift-v3-editor/tree/main/printables/Cherry-MX) - Keycaps that I would consider low profile for cherry mx style switches  
+ - [Low Profile Printable Keycaps](https://github.com/Timception/zmk-config-drift-v3-editor/tree/main/printables/Low-Profile) - Very thin keycaps made to fit Kailh Choc V2 switches  
    
  - [Encoder Knobs](https://github.com/Timception/zmk-config-drift-v3-editor/tree/main/printables/Encoder-Knobs)
- - [MakerWorld Profile](https://makerworld.com/en/@timception) for those who want to print easily through Bambu Lab Printers.
+ - [MakerWorld Profile](https://makerworld.com/en/@timception) - for those who want to print easily through Bambu Lab Printers.  
 <br/><br/>  
 
 >[!Note]
