@@ -10,10 +10,11 @@ This is the wireless ZMK version of the [Original Drift Keyboard](https://github
 - [Testing or Fixing your Bluetooth Connection](https://github.com/Timception/zmk-config-drift-v3-editor/tree/main/Testing%20or%20Fixing%20your%20Bluetooth%20Connection)
 - [Charging and Wired Connection](https://github.com/Timception/zmk-config-drift-v3-editor/tree/main/Charging%20and%20Wired%20Connection)
 - [PS3 Battery Pack Assembly](https://github.com/Timception/zmk-config-drift-v3-editor/tree/main/PS3%20Battery%20Pack%20Assembly)  
-<br/><br/>
+<br/><br/>  
 
 ## Accessories
- - [Printable Keycaps and Encoder Knobs](https://github.com/Timception/zmk-config-drift-v3-editor/tree/main/PS3%20Battery%20Pack%20Assembly)
+ - [Printable Keycaps and Encoder Knobs](https://github.com/Timception/zmk-config-drift-v3-editor/tree/main/printables)  
+<br/><br/>  
 
 >[!Note]
 >The frame and outer parts of the previous version (Drift Keyboard V2) will all fit on this version.  
