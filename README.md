@@ -16,7 +16,8 @@ This is the wireless ZMK version of the [Original Drift Keyboard](https://github
  - [Cherry MX Printable Keycaps](https://github.com/Timception/zmk-config-drift-v3-editor/tree/main/printables/Cherry-MX)  
  - [Low Profile Printable Keycaps](https://github.com/Timception/zmk-config-drift-v3-editor/tree/main/printables/Low-Profile)
    
- - [Encoder Knobs](https://github.com/Timception/zmk-config-drift-v3-editor/tree/main/printables/Encoder-Knobs)  
+ - [Encoder Knobs](https://github.com/Timception/zmk-config-drift-v3-editor/tree/main/printables/Encoder-Knobs)
+ - [MakerWorld Profile](https://makerworld.com/en/@timception) for those who want to print easily through Bambu Lab Printers.
 <br/><br/>  
 
 >[!Note]
