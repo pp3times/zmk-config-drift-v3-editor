@@ -135,4 +135,4 @@ This confirms that you can now make your own firmware. Next, let's try and chang
 For more information on Behaviours and Key Codes please visit: (ZMK Behaviours)[https://zmk.dev/docs/keymaps/behaviors]  
 
 
-You can see more actual builds [-=HERE=-](https://www.instagram.com/majin_keyboards)  
+You can see more actual builds [-=HERE=-](https://www.instagram.com/majin.keyboards)  
