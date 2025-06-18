@@ -10,18 +10,21 @@
 ## Batteries tested to work with the keyboard
 
 - 1800mAh PS3 Controller Battery (LIP1359)
-<img src="images/PS3-battery.jpg" width="500"><br/>
+   
+<img src="images/PS3-battery.jpg" width="300"><br/>  
   - [Amazon Item Link](https://a.co/d/4CgXvFp)  
   - [Aliexpress Item Link](https://www.aliexpress.com/item/1005005213892382.html)  
   <br/>  
 
 - 120mAh LiPo Battery (401230) + JST PH2.0mm - This battery is small enough to fit under the MCU
-<img src="images/120mah.png" width="500"><br/>
+  
+<img src="images/120mah.png" width="300"><br/>  
   - [Aliexpress Item Link](https://www.aliexpress.com/item/1005003383250806.html)  
   <br/>  
   
 - 110mAh LiPo Battery (401030) + JST PH2.0mm - This battery is small enough to fit under the MCU
-<img src="images/110mah.png" width="500"><br/>
+  
+<img src="images/110mah.png" width="300"><br/>  
   - [Ebay Item Link](https://www.ebay.com/itm/124961007813)  
   - [Aliexpress Item Link](https://www.aliexpress.com/item/1005006161362814.html)  
   <br/>  
