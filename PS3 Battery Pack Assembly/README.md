@@ -19,7 +19,7 @@
   <br/>  
   
 - 110mAh LiPo Battery (401030) + JST PH2.0mm - This battery is small enough to fit under the MCU  
-  - [Ebay Item Link]([https://a.co/d/4CgXvFp](https://www.ebay.com/itm/124961007813))  
+  - [Ebay Item Link](https://www.ebay.com/itm/124961007813)  
   - [Aliexpress Item Link](https://www.aliexpress.com/item/1005006161362814.html)  
   <br/>  
 
