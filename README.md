@@ -17,7 +17,10 @@ This is the wireless ZMK version of the [Original Drift Keyboard](https://github
  - [Low Profile Printable Keycaps](https://github.com/Timception/zmk-config-drift-v3-editor/tree/main/printables/Low-Profile) - Very thin keycaps made to fit Kailh Choc V2 switches  
    
  - [Encoder Knobs](https://github.com/Timception/zmk-config-drift-v3-editor/tree/main/printables/Encoder-Knobs) - Cute little twirly knobs you can use on your encoders  
- - [MakerWorld Profile](https://makerworld.com/en/@timception) - for those who want to print easily through Bambu Lab Printers.  
+ - [MakerWorld Profile](https://makerworld.com/en/@timception) - for those who want to print easily through Bambu Lab Printers.
+<br/>  
+ 
+ - [MCU Cover/Protection](https://github.com/Timception/zmk-config-drift-v3-editor/tree/main/V3-MCU-Cover)
 <br/><br/>  
 
 >[!Note]
