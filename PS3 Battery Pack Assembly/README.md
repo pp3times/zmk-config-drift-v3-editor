@@ -1,7 +1,7 @@
 # PS3 Battery Pack Assembly  
 
  - [3D Printables for PS3 Controller Battery Pack](https://github.com/Timception/zmk-config-drift-v3-editor/tree/main/PS3%20Battery%20Pack%20Assembly/Drift-V3-Battery-Expansion)  
- <br/><br/>  
+ <br/>  
  
  - [Batteries tested to work with the keyboard](#batteries-tested-to-work-with-the-keyboard)
  - [Screwing on the PS3 controller battery pack](#screwing-on-the-ps3-controller-battery-pack)
