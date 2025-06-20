@@ -20,7 +20,8 @@ This is the wireless ZMK version of the [Original Drift Keyboard](https://github
  - [MakerWorld Profile](https://makerworld.com/en/@timception) - for those who want to print easily through Bambu Lab Printers.
 <br/>  
  
- - [MCU Cover/Protection](https://github.com/Timception/zmk-config-drift-v3-editor/tree/main/V3-MCU-Cover) - Microcontroller Covers for Extra Protection  
+ - [MCU Cover/Protection](https://github.com/Timception/zmk-config-drift-v3-editor/tree/main/V3-MCU-Cover) - Microcontroller Covers for Extra Protection
+   
  - [Drift V2 and V3 Plates for Cherry MX Switches](https://github.com/Timception/zmk-config-drift-v3-editor/tree/main/Drift-V2-and-V3-Cherry-Plates) - Printable Plates for Drift V2 and V3 (A1 Mini support in .3mf file)  
 <br/><br/>  
 
