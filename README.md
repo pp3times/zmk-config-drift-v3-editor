@@ -1,6 +1,8 @@
 ## Drift Keyboard V3 (by Timception)
 This is the wireless ZMK version of the [Original Drift Keyboard](https://github.com/Timception/Drift)  
 
+This version of the Drift Keyboard supports 5-Pin Cherry MX switches, Kailh Choc V1 and Kailh Choc V2 switches, yep, not 2 but 3 different switches all on the same pcb - However, the PCB is not open source so you will have to contact me if you would like a pair.
+
 ### Edit your Keyboard Keymap Here: [Keymap Editor by Nick Coutsos](https://nickcoutsos.github.io/keymap-editor/)  
 <br/>
 
