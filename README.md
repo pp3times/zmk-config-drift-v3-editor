@@ -48,6 +48,7 @@ This version of the Drift Keyboard supports:
 <br/>
 
 How to [change your build](https://github.com/Timception/zmk-config-drift-v3-editor/tree/main/Drift-V2-and-V3-Choc-Plates) to use choc switches.  
+<br/>  
 
 <img src="img/switch-support.png" width="500">  
 <br/>  
