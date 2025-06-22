@@ -4,10 +4,10 @@
   - The PCB is not open source, but you could [contact me](https://www.instagram.com/majin.keyboards) if you would like a pair  
 
 
-### [Keymap Editor by Nick Coutsos](https://nickcoutsos.github.io/keymap-editor/): Edit your Keyboard Keymap  
+### [Keymap Editor by Nick Coutsos](https://nickcoutsos.github.io/keymap-editor/) : Edit your Keyboard Keymap  
 <br/>  
 
-## Quickstart Guide
+## Quickstart Guide  
 - [Keymap](https://github.com/Timception/zmk-config-drift-v3-editor/tree/main/Keymap) - Key locations on each layer of the Drift Keyboard V3  
 
 - [How to Change your Keymap](https://github.com/Timception/zmk-config-drift-v3-editor/tree/main/How%20to%20Change%20your%20Keymap) - Detailed guide on how to change your keys  
