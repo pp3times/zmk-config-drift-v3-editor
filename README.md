@@ -21,7 +21,9 @@ This version of the Drift Keyboard supports:
 
 - [Charging and Wired Connection](https://github.com/Timception/zmk-config-drift-v3-editor/tree/main/Charging%20and%20Wired%20Connection) - How to charge the keyboard and use with USB-C  
 
-- [Battery Pack Assembly](https://github.com/Timception/zmk-config-drift-v3-editor/tree/main/PS3%20Battery%20Pack%20Assembly) - Along with other supported batteries and how to install them  
+- [Battery Pack Assembly](https://github.com/Timception/zmk-config-drift-v3-editor/tree/main/PS3%20Battery%20Pack%20Assembly) - Along with other supported batteries and how to install them
+
+  - [Low Profile Conversion](https://github.com/Timception/zmk-config-drift-v3-editor/tree/main/Drift-V2-and-V3-Choc-Plates) - How to change your build in order for you to use choc switches  
 <br/><br/>  
 
 ## 3D Printable Accessories
