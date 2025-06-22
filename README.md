@@ -13,7 +13,8 @@ This version of the Drift Keyboard supports:
 <img src="img/switch-support.png" width="500">  
 <br/>  
  
- However, the PCB is NOT open source so you will have to contact me if you would like a pair.  
+> [!NOTE]  
+> However, the PCB is NOT open source so you will have to [CONTACT ME](https://www.instagram.com/majin.keyboards) if you would like a pair.  
 <br/>  
 
 ## Quickstart Guide
