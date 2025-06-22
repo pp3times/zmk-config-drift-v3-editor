@@ -51,16 +51,16 @@ This version of the Drift Keyboard supports:
 
 >[!Warning]
 >Important Note on LiPo Batteries  
-
+>  
 >LiPo (Lithium Polymer) batteries are considered a fire hazard due to their sensitivity
 >to overcharging, punctures, or improper handling, which can lead to overheating or combustion.
 >Because of strict shipping regulations, LiPo batteries cannot be included with this keyboard
 >and must be purchased separately by the builder.  
-
+>  
 >Disclaimer: I am not responsible for any damage, injury, or loss resulting from the use,
 >charging, or installation of LiPo batteries. Use at your own risk and follow all safety guidelines
 >provided by the battery manufacturer.  
-
+<br/><br/>  
 
 You can see more actual builds [HERE](https://www.instagram.com/majin.keyboards)  
 
