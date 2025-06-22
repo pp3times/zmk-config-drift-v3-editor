@@ -1,15 +1,36 @@
 # PS3 Battery Pack Assembly  
 
- - [3D Printables for PS3 Controller Battery Pack](https://github.com/Timception/zmk-config-drift-v3-editor/tree/main/PS3%20Battery%20Pack%20Assembly/Drift-V3-Battery-Expansion)
- - [3D Printables for the Bottom Part/Plate](https://github.com/Timception/zmk-config-drift-v3-editor/tree/main/PS3%20Battery%20Pack%20Assembly/Drift-V3-Bottom-Pieces)  
- <br/>  
+## Contents:  
+
+ - [3D Printables for PS3 Controller Battery Pack](https://github.com/Timception/zmk-config-drift-v3-editor/tree/main/PS3%20Battery%20Pack%20Assembly/Drift-V3-Battery-Expansion)  
  
- - [Batteries tested to work with the keyboard](#batteries-tested-to-work-with-the-keyboard)
- - [Screwing on the PS3 controller battery pack](#screwing-on-the-ps3-controller-battery-pack)
- - [Plugging in the Battery Connector](#plugging-in-the-battery-connector)
- - [Plugging in the 4-Pin OLED](#plugging-in-the-4-pin-oled)
- - [Using the 110mAh LiPo Battery instead](#using-the-110mAh-lipo-battery-instead)
- - [Replacing the 4-Pin OLED with a NiceView](#replacing-the-4-pin-oled-with-a-niceview)
+ - [3D Printables for the Bottom Part/Plate](https://github.com/Timception/zmk-config-drift-v3-editor/tree/main/PS3%20Battery%20Pack%20Assembly/Drift-V3-Bottom-Pieces)  
+ 
+ - [Batteries tested to work with the keyboard](#batteries-tested-to-work-with-the-keyboard)  
+   
+ - [Screwing on the PS3 controller battery pack](#screwing-on-the-ps3-controller-battery-pack)  
+ 
+ - [Plugging in the Battery Connector](#plugging-in-the-battery-connector)  
+ 
+ - [Plugging in the 4-Pin OLED](#plugging-in-the-4-pin-oled)  
+ 
+ - [Using the 110mAh LiPo Battery instead](#using-the-110mAh-lipo-battery-instead)  
+
+ - [Replacing the 4-Pin OLED with a NiceView](#replacing-the-4-pin-oled-with-a-niceview)  
+<br/><br/>
+
+>[!Warning]
+>Important Note on LiPo Batteries  
+>  
+>LiPo (Lithium Polymer) batteries are considered a fire hazard due to their sensitivity
+>to overcharging, punctures, or improper handling, which can lead to overheating or combustion.
+>Because of strict shipping regulations, LiPo batteries cannot be included with this keyboard
+>and must be purchased separately by the builder.  
+>  
+>Disclaimer: I am not responsible for any damage, injury, or loss resulting from the use,
+>charging, or installation of LiPo batteries. Use at your own risk and follow all safety guidelines
+>provided by the battery manufacturer.  
+<br/><br/>  
 
 ## Batteries tested to work with the keyboard
 
