@@ -4,15 +4,6 @@ This is the wireless [ZMK](https://zmk.dev/) version of the [Original Drift Keyb
 ### Edit your Keyboard Keymap Here: [Keymap Editor by Nick Coutsos](https://nickcoutsos.github.io/keymap-editor/)  
 <br/>  
 
-This version of the Drift Keyboard supports:  
-
- - 5-Pin Cherry MX switches (3-Pin switches will also work)  
- - Kailh Choc V1 switches  
- - Kailh Choc V2 switches  
-
-<img src="img/switch-support.png" width="500">  
-<br/>  
- 
 > [!NOTE]  
 > The PCB is not open source, but you could [contact me](https://www.instagram.com/majin.keyboards) if you would like a pair.  
 <br/>  
@@ -47,7 +38,16 @@ This version of the Drift Keyboard supports:
  - [Drift V2 and V3 Plates for Choc V1/V2 Switches](https://github.com/Timception/zmk-config-drift-v3-editor/tree/main/Drift-V2-and-V3-Choc-Plates) - Choc Plates for Drift V2 and V3 (A1 Mini support in .3mf file)
  
  - [Outer Parts (outer frame pieces)](https://github.com/Timception/zmk-config-drift-v3-editor/tree/main/Outer-Acrylic) - Usually referred to as outer acrylic frame  
-<br/><br/>  
+<br/><br/>
+
+This version of the Drift Keyboard supports:  
+
+ - 5-Pin Cherry MX switches (3-Pin switches will also work)  
+ - Kailh Choc V1 switches  
+ - Kailh Choc V2 switches  
+
+<img src="img/switch-support.png" width="500">  
+<br/>  
 
 >[!Note]
 >The frame and outer parts of the previous version (Drift Keyboard V2) will all fit on this version.  
