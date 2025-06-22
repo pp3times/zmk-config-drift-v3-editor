@@ -14,7 +14,7 @@ This version of the Drift Keyboard supports:
 <br/>  
  
 > [!NOTE]  
-> However, the PCB is NOT open source so you will have to [CONTACT ME](https://www.instagram.com/majin.keyboards) if you would like a pair.  
+> The PCB is not open source, but you could [contact me](https://www.instagram.com/majin.keyboards) if you would like a pair.  
 <br/>  
 
 ## Quickstart Guide
