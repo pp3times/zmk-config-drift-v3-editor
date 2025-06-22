@@ -64,5 +64,5 @@ This version of the Drift Keyboard supports:
 
 You can see more actual builds [HERE](https://www.instagram.com/majin.keyboards)  
 
-Very much made possible by the help of [Friction](https://github.com/friction07).  
-Thank you so much, this would not be possible without your generosity!  
+This project was made possible thanks to the incredible support of [Friction](https://github.com/friction07)  
+Your generosity truly made all the difference—thank you!  
