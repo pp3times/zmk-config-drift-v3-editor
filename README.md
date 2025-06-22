@@ -1,5 +1,7 @@
 ## Drift Keyboard V3 (by Timception)
-This is the wireless [ZMK](https://zmk.dev/) version of the [Original Drift Keyboard](https://github.com/Timception/Drift)  
+- This is the wireless [ZMK](https://zmk.dev/) version of the [Original Drift Keyboard](https://github.com/Timception/Drift)
+  - The Drift V3 can also be [wired](https://github.com/Timception/Drift-Keyboard-V3-Wired-Vial-Version) by changing the MCU  
+
 
 ### Edit your Keyboard Keymap Here: [Keymap Editor by Nick Coutsos](https://nickcoutsos.github.io/keymap-editor/)  
 <br/>  
