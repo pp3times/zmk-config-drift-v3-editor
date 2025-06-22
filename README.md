@@ -4,7 +4,8 @@
 
   - The Drift V3 can also be [wired](https://github.com/Timception/Drift-Keyboard-V3-Wired-Vial-Version) by changing the MCU  
 
-  - The PCB is not open source, but you could [contact me](https://www.instagram.com/majin.keyboards) if you would like a pair  
+  - The PCB is not open source, but you could [contact me](https://www.instagram.com/majin.keyboards) if you would like a pair
+  <br/>  
 
 
 ## Quickstart Guide - [Keymap Editor by Nick Coutsos](https://nickcoutsos.github.io/keymap-editor/)  
