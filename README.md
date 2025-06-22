@@ -6,6 +6,9 @@ This version of the Drift Keyboard supports:
  - 5-Pin Cherry MX switches (3-Pin switches will also work)  
  - Kailh Choc V1 switches  
  - Kailh Choc V2 switches  
+
+<img src="img/switch-support.png" width="500">  
+<br/>  
  
  However, the PCB is NOT open source so you will have to contact me if you would like a pair.  
 
