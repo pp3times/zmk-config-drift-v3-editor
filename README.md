@@ -4,7 +4,7 @@
   - The PCB is not open source, but you could [contact me](https://www.instagram.com/majin.keyboards) if you would like a pair  
 
 
-### [Keymap Editor by Nick Coutsos](https://nickcoutsos.github.io/keymap-editor/) : Edit your Keyboard Keymap  
+### Edit your Keyboard Keymap : [Keymap Editor by Nick Coutsos](https://nickcoutsos.github.io/keymap-editor/)   
 <br/>  
 
 ## Quickstart Guide  
