@@ -54,7 +54,7 @@ This version of the Drift Keyboard supports:
 >However, the PCB is slightly expanded around the microcontroller area due to it being more populated.
 
 
-You can see more actual builds [-=HERE=-](https://www.instagram.com/majin.keyboards)  
+You can see more actual builds [HERE](https://www.instagram.com/majin.keyboards)  
 
 Very much made possible by the help of [Friction](https://github.com/friction07).  
 Thank you so much, this would not be possible without your generosity!  
