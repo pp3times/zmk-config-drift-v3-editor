@@ -1,6 +1,9 @@
 ## Drift Keyboard V3 (by Timception)
 This is the wireless [ZMK](https://zmk.dev/) version of the [Original Drift Keyboard](https://github.com/Timception/Drift)  
 
+### Edit your Keyboard Keymap Here: [Keymap Editor by Nick Coutsos](https://nickcoutsos.github.io/keymap-editor/)  
+<br/>  
+
 This version of the Drift Keyboard supports:  
 
  - 5-Pin Cherry MX switches (3-Pin switches will also work)  
@@ -11,9 +14,7 @@ This version of the Drift Keyboard supports:
 <br/>  
  
  However, the PCB is NOT open source so you will have to contact me if you would like a pair.  
-
-### Edit your Keyboard Keymap Here: [Keymap Editor by Nick Coutsos](https://nickcoutsos.github.io/keymap-editor/)  
-<br/>
+<br/>  
 
 ## Quickstart Guide
 - [Keymap](https://github.com/Timception/zmk-config-drift-v3-editor/tree/main/Keymap) - Key locations on each layer of the Drift Keyboard V3  
