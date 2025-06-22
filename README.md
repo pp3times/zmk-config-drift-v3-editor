@@ -44,7 +44,9 @@ This version of the Drift Keyboard supports:
 
  - 5-Pin Cherry MX switches (3-Pin switches will also work)  
  - Kailh Choc V1 switches  
- - Kailh Choc V2 switches  
+ - Kailh Choc V2 switches
+<br/>
+How to [change your build](https://github.com/Timception/zmk-config-drift-v3-editor/tree/main/Drift-V2-and-V3-Choc-Plates) to use choc switches.  
 
 <img src="img/switch-support.png" width="500">  
 <br/>  
