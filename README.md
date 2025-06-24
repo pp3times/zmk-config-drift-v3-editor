@@ -37,7 +37,7 @@
  
  - [Drift V2 and V3 Plates for Choc V1/V2 Switches](/Drift-V2-and-V3-Choc-Plates/) - Choc Plates for Drift V2 and V3 (A1 Mini support in .3mf file)
  
- - [Outer Parts (outer frame pieces)]/Outer-Acrylic/) - Usually referred to as outer acrylic frame  
+ - [Outer Parts (outer frame pieces)](/Outer-Acrylic/) - Usually referred to as outer acrylic frame  
 <br/><br/>
 
 This version of the Drift Keyboard supports:  
