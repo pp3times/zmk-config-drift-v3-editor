@@ -23,7 +23,7 @@
 <br/><br/>  
 
 ## 3D Printable Accessories
- - [Cherry MX Printable Keycaps](https://github.com/Timception/zmk-config-drift-v3-editor/tree/main/printables/Cherry-MX) - Keycaps that I would consider low profile for Cherry MX style switches  
+ - [Cherry MX Printable Keycaps](/printables/Cherry-MX/) - Keycaps that I would consider low profile for Cherry MX style switches  
  - [Low Profile Printable Keycaps](https://github.com/Timception/zmk-config-drift-v3-editor/tree/main/printables/Low-Profile) - Very thin keycaps made to fit Kailh Choc V2 switches  
    
  - [Encoder Knobs](https://github.com/Timception/zmk-config-drift-v3-editor/tree/main/printables/Encoder-Knobs) - Cute little twirly knobs you can use on your encoders  
