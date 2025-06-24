@@ -9,7 +9,7 @@
 
 
 ## Quickstart Guide - [Keymap Editor by Nick Coutsos](https://nickcoutsos.github.io/keymap-editor/)  
-- [Keymap](/Keymap) - Key locations on each layer of the Drift Keyboard V3  
+- [Keymap](Keymap) - Key locations on each layer of the Drift Keyboard V3  
 
 - [How to Change your Keymap](https://github.com/Timception/zmk-config-drift-v3-editor/tree/main/How%20to%20Change%20your%20Keymap) - Detailed guide on how to change your keys  
 
