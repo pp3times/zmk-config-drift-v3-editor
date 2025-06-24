@@ -11,7 +11,7 @@
 ## Quickstart Guide - [Keymap Editor by Nick Coutsos](https://nickcoutsos.github.io/keymap-editor/)  
 - [Keymap](Keymap) - Key locations on each layer of the Drift Keyboard V3  
 
-- [How to Change your Keymap](https://github.com/Timception/zmk-config-drift-v3-editor/tree/main/How%20to%20Change%20your%20Keymap) - Detailed guide on how to change your keys  
+- [How to Change your Keymap](How%20to%20Change%20your%20Keymap) - Detailed guide on how to change your keys  
 
 - [Testing or Fixing your Bluetooth Connection](https://github.com/Timception/zmk-config-drift-v3-editor/tree/main/Testing%20or%20Fixing%20your%20Bluetooth%20Connection) - Bluetooth connections and troubleshooting
 
