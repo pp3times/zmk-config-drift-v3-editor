@@ -24,17 +24,17 @@
 
 ## 3D Printable Accessories  
  - [Cherry MX Printable Keycaps](/printables/Cherry-MX/) - Keycaps that I would consider low profile for Cherry MX style switches  
-   <br/>  
+
    <img src="img/Otaru_Keycaps_Cherry.png" width="250">  
    <br/>  
    
  - [Low Profile Printable Keycaps](/printables/Low-Profile/) - Very thin keycaps made to fit Kailh Choc V2 switches  
-   <br/>  
+
    <img src="img/Otaru_Keycaps_LP.png" width="250">  
    <br/>  
       
  - [Encoder Knobs](/printables/Encoder-Knobs/) - Cute little twirly knobs you can use on your encoders
-   <br/>  
+
    <img src="img/EC12-Knobs.png" width="250">  
    <br/>  
       
