@@ -17,7 +17,7 @@
 
 - [Charging and Wired Connection](/Charging%20and%20Wired%20Connection/) - How to charge the keyboard and use with USB-C  
 
-- [Battery Pack Assembly](/PS3%20Battery%20Pack%20Assembly/) - Along with other supported batteries and how to install them
+- [Batteries and Battery Pack Assembly](/PS3%20Battery%20Pack%20Assembly/) - Along with other supported batteries and how to install them
 
   - [Low Profile Conversion](/Drift-V2-and-V3-Choc-Plates/) - How to change your build in order for you to use choc switches  
 <br/><br/>  
