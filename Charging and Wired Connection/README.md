@@ -9,7 +9,7 @@
 
 > [!Note]  
 > You can usually see the battery percentage of connected Bluetooth devices on your computer or phone.  
-> Because of this, an OLED screen is not needed just to show battery. Removing the OLED can greatly improve battery life.  
+> Because of this, an OLED screen is not really needed, unless you use [these](https://typeractive.xyz/products/nice-view). Removing the OLED can greatly improve battery life.  
 > If you want to use this keyboard through a USB-C wired connection without charging, both sides must be connected to your computer individually.  
 
 
