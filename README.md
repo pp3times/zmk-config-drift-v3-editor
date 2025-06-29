@@ -2,7 +2,7 @@
 
 - This is the wireless [ZMK](https://zmk.dev/) version of the [Original Drift Keyboard](https://github.com/Timception/Drift)  
 
-  - [Default Keymap](#keymap) to see where all your keys are, or go straight to the [Keymap Editor by Nick Coutsos](https://nickcoutsos.github.io/keymap-editor/)  
+  - [Default Keymap](#default-keymap) to see where all your keys are, or go straight to the [Keymap Editor by Nick Coutsos](https://nickcoutsos.github.io/keymap-editor/)  
 
   - The PCB is not open source, but you could [contact me](https://www.instagram.com/majin.keyboards) if you would like a pair
   <br/>  
@@ -23,7 +23,7 @@
 <br/><br/>  
 
 
-# Keymap
+# Default Keymap
 
   - If you don't already know, this keyboard comes with open source firmware from [ZMK](https://zmk.dev/) that allows you to have more keys than you can see on your keyboard because they are on "extra layers" that you can access by pressing layer keys similar to the "Fn" (function) key on a laptop or notebook to access volume control or screen brightness etc.  
 
