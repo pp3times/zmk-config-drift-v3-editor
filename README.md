@@ -5,7 +5,7 @@
   - [Default Keymap](#default-keymap) to see where all your keys are, or go straight to the  
     - [Keymap Editor by Nick Coutsos](https://nickcoutsos.github.io/keymap-editor/)  
 
-  - The PCB is not open source, but you could [contact me](https://www.instagram.com/majin.keyboards) if you would like a pair
+- The PCB is not open source, but you could [contact me](https://www.instagram.com/majin.keyboards) if you would like a pair
   <br/>  
 
 
