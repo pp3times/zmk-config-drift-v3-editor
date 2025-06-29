@@ -2,54 +2,70 @@
 
 - This is the wireless [ZMK](https://zmk.dev/) version of the [Original Drift Keyboard](https://github.com/Timception/Drift)  
 
-  - The Drift V3 can also be [wired](https://github.com/Timception/Drift-v3-vial) by changing the MCU  
+  - [Default Keymap](#keymap) to see where all your keys are, or go straight to the [Keymap Editor by Nick Coutsos](https://nickcoutsos.github.io/keymap-editor/)  
 
   - The PCB is not open source, but you could [contact me](https://www.instagram.com/majin.keyboards) if you would like a pair
   <br/>  
 
 
-## Quickstart Guide - [Keymap Editor by Nick Coutsos](https://nickcoutsos.github.io/keymap-editor/)  
-- [Keymap](Keymap) - Key locations on each layer of the Drift Keyboard V3  
+## Quickstart Guide   
+  - [1.	How to change your keys](/docs/change-keys/) - Key locations on each layer of the Drift Keyboard V3  
 
-- [How to Change your Keymap](/How%20to%20Change%20your%20Keymap/) - Detailed guide on how to change your keys  
+  - [2.	How to install batteries](/docs/batteries/) - Detailed guide on how to change your keys  
 
-- [Testing or Fixing your Bluetooth Connection](/Testing%20or%20Fixing%20your%20Bluetooth%20Connection/) - Bluetooth connections and troubleshooting
+  - [3.	Connecting through Bluetooth](/docs/bluetooth/) - Bluetooth connections and troubleshooting  
 
-- [Charging and Wired Connection](/Charging%20and%20Wired%20Connection/) - How to charge the keyboard and use with USB-C  
+  - [4.	Charging](/docs/charging/) - How to charge the keyboard and use with USB-C  
 
-- [Batteries and Battery Pack Assembly](/PS3%20Battery%20Pack%20Assembly/) - Along with other supported batteries and how to install them
+  - [5.	Switching to low profile](/docs/low-profile/) - Along with other supported batteries and how to install them  
 
-  - [Low Profile Conversion](/Drift-V2-and-V3-Choc-Plates/) - How to change your build in order for you to use choc switches  
+  - [6.	3D Printables](https://github.com/Timception/3d-printables) - This will take you to the 3D printable part repository  
 <br/><br/>  
 
-## 3D Printable Accessories  
- - [Cherry MX Printable Keycaps](/printables/Cherry-MX/) - Keycaps that I would consider low profile for Cherry MX style switches  
 
-   <img src="img/Otaru_Keycaps_Cherry.png" width="250">  
-   <br/><br/>  
-   
- - [Low Profile Printable Keycaps](/printables/Low-Profile/) - Very thin keycaps made to fit Kailh Choc V2 switches  
+# Keymap
 
-   <img src="img/Otaru_Keycaps_LP.png" width="250">  
-   <br/><br/>  
-      
- - [Encoder Knobs](/printables/Encoder-Knobs/) - Cute little twirly knobs you can use on your encoders
+  - If you don't already know, this keyboard comes with open source firmware from [ZMK](https://zmk.dev/) that allows you to have more keys than you can see on your keyboard because they are on extra "layers" that you can access by pressing layer keys similar to the "Fn" (function) key on a laptop or notebook to access volume control or screen brightness etc.  
 
-   <img src="img/EC12-Knobs.png" width="250">  
-   <br/><br/>  
-      
- - [MakerWorld Profile](https://makerworld.com/en/@timception) - for those who want to print easily through Bambu Lab Printers.
-<br/>  
+  - Split Keyboards have some terminology and one that I would like to introduce you to is the "Thumb Cluster". The thumb cluster consists of the keys where you would normally press the spacebar. Split Keyboards make much better use of this area and allow you to place, and customize more useful keys in this area so you don't have to reach so far to press them.  
 
- ## Additional 3D Printables
- - [MCU Cover/Protection](/V3-MCU-Cover/) - Microcontroller Covers for Extra Protection
-   
- - [Drift V2 and V3 Plates for Cherry MX Switches](/Drift-V2-and-V3-Cherry-Plates/) - Cherry Plates for Drift V2 and V3 (A1 Mini support in .3mf file)  
- 
- - [Drift V2 and V3 Plates for Choc V1/V2 Switches](/Drift-V2-and-V3-Choc-Plates/) - Choc Plates for Drift V2 and V3 (A1 Mini support in .3mf file)
- 
- - [Outer Parts (outer frame pieces)](/Outer-Acrylic/) - Usually referred to as outer acrylic frame  
-<br/><br/>
+  - You can see that I have placed shift on the left-most thumb cluster key, and backspace on the right-most thumb cluster key. As well as putting the spacebar in the middle of each thumb cluster because some people hit the spacebar with their left thumb, while others may hit the spacebar with their right thumb.  
+
+  - You can [change the keys on your keymap](https://github.com/Timception/zmk-config-drift-v3-editor/tree/main/How%20to%20Change%20your%20Keymap) if you prefer different placing of any key.  
+
+
+> [!Note]  
+> The "&trans" keys seen on the thumb clusters on layers 1 and above act as transparent keys, copying the key set on the layer beneath it.  
+> If you are confused about what some of these keys represent, you may find [more information here](https://zmk.dev/docs/keymaps/list-of-keycodes)  
+> Information on layers can also [be found here](https://zmk.dev/docs/keymaps/behaviors/layers)  
+
+
+## Base/Default Layer (layer 0)  
+- This is the default layer or layer 0 on this keyboard and the keys are as follows:  
+  
+  <img src="images/0_default_layer.png"><br/><br/>  
+
+
+## Lower Layer (layer 1)  
+- This is the lower layer or layer 1. This is where the F-Keys and Arrow-Keys are:  
+  
+  <img src="images/1_lower_layer_n.png">  
+  The "&mo 1" key is held to access this layer as seen in the bottom right of this image.  <br/><br/>  
+
+
+## Raise Layer (layer 2)  
+- This is the lower layer or layer 2. This is where the Bluetooth Functions and Mouse Keys are:  
+  
+  <img src="images/2_raise_layer_n.png">  
+  The "&mo 2" key is held to access this layer as seen in the bottom right of this image.  <br/><br/>  
+
+
+## Adjust Layer (layer 3)  
+- This is the adjust layer or layer 3. This is pretty much a clone of Layer 2 as my usage doesn't go beyond 3 layers:  
+  
+  <img src="images/3_adjust_layer_n.png">  
+   Both "&mo 1" and "&mo 2" keys are held to work together to activate the conditional layer function, taking us to layer 3.  <br/><br/>  
+
 
 This version of the Drift Keyboard supports:  
 
@@ -58,7 +74,7 @@ This version of the Drift Keyboard supports:
  - Kailh Choc V2 switches  
 <br/>  
 
-How to [change your build](/Drift-V2-and-V3-Choc-Plates/) to use choc switches.  
+How to [change your build](/docs/low-profile/) to use choc switches.  
 <br/>  
 
 <img src="img/switch-support.png" width="500">  
