@@ -1,12 +1,12 @@
-# How to Change your Keymap  
+# How to Change your Keymap on GitHub (step by step)  
 
-## Summary of actions  
+## Summary of tasks:  
 
-  - Login to GitHub, Fork Keyboard Repository  
-  - Enable Workflows/Actions (to pump out your own firmware)  
-  - Enable Keymap Editor by [Nick Coutsos](https://github.com/nickcoutsos/keymap-editor) (to edit your keymap)  
-  - Save Keymap Changes, Download New Firmware  
-  - Flash Keyboard one side at a time  
+  - Login to GitHub, [fork keyboard repository](#1-fork-this-repository)  
+  - [Enable workflows/actions](#4-enable-workflows) (to pump out your own firmware)  
+  - [Enable keymap editor](#12-click-the-keymap-editor-link) (to edit your keymap)  
+  - [Save keymap changes](#24-click-save-at-the-top-to-save-your-new-keymap), download new firmware  
+  - [Flash keyboard firmware](#28-plug-left-half-of-the-drift-keyboard-into-your-computer-then-double-click-the-reset-button) one side at a time, enjoy  
 <br/><br/>  
 
 
@@ -87,7 +87,7 @@ This confirms that you can now make your own firmware. Next, let's try and chang
 
 <img src="images/19.png" width="600"><br/><br/><br/>  
 
-### 20. Bluetooth Functions [(more on this here)](https://github.com/Timception/zmk-config-drift-v3-editor/tree/main/Testing%20or%20Fixing%20your%20Bluetooth%20Connection)  
+### 20. Bluetooth Functions [(more on this here)](https://github.com/Timception/zmk-config-drift-v3-editor/tree/main/docs/bluetooth)  
 
 <img src="images/20.png" width="600"><br/><br/><br/>  
 
