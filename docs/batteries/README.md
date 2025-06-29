@@ -1,18 +1,18 @@
-# PS3 Battery Pack Assembly  
+# Battery Installation  
 
 ## Contents:  
 
- - [3D Printables for PS3 Controller Battery Pack](https://github.com/Timception/3d-printables/tree/main/v3/battery-pack) - Battery pack and bottom part
+ - [3D Printables for PS3 Controller Battery Pack](https://github.com/Timception/3d-printables/tree/main/v3/battery-pack) - Takes you to the 3D printables page for these parts
  
- - [Batteries tested to work with the keyboard](#batteries-tested-to-work-with-the-keyboard) - Some batteries you can use for this keyboard  
+ - [Batteries](#batteries-tested-to-work-with-the-keyboard) - Some batteries you can use for this keyboard  
    
- - [Screwing on the PS3 controller battery pack](#screwing-on-the-ps3-controller-battery-pack) - Assembly guide  
+ - [Screwing on the PS3 controller battery pack](#screwing-on-the-ps3-controller-battery-pack) - Start of the assembly guide  
  
  - [Plugging in the Battery Connector](#plugging-in-the-battery-connector) - Hooking up the battery  
  
  - [Plugging in the 4-Pin OLED](#plugging-in-the-4-pin-oled) - Standard (power hungry) OLED  
  
- - [Using the 110mAh LiPo Battery instead](#using-the-110mAh-lipo-battery-instead) - the smaller battery option (removing the OLED dramatically improves battery life)  
+ - [Using the 110mAh LiPo Battery](#using-the-110mAh-lipo-battery-instead) - the smaller battery option (removing the OLED dramatically improves battery life)  
 
  - [Replacing the 4-Pin OLED with a NiceView](#replacing-the-4-pin-oled-with-a-niceview) - Best screen to use if you install the 110mAh battery  
 <br/><br/>
