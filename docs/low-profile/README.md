@@ -18,4 +18,4 @@ This is how to convert to a low-profile choc version:
 
 <img src="choc-conversion.jpg" width="500">  
 
-Only one layer of outer acrylic beneath the pcb, and the plate is now sandwiched with the pcb.
+Only one layer of outer acrylic beneath the pcb, and the plate is now sandwiched flush with the pcb.
