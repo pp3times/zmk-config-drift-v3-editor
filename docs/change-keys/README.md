@@ -9,6 +9,7 @@
   - [Flash keyboard firmware](#28-plug-left-half-of-the-drift-keyboard-into-your-computer-then-double-click-the-reset-button) one side at a time, enjoy  
 <br/><br/>  
 
+## Follow the illustrated guide below if this is your first time  
 
 ### 1. Fork [This Repository](https://github.com/Timception/zmk-config-drift-v3-editor)  
 
