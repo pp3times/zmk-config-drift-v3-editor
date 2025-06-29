@@ -1,4 +1,4 @@
-## Drift Keyboard V3 (by Timception)  
+## Drift Keyboard V3 by Timception  
 
 - This is the wireless [ZMK](https://zmk.dev/) version of the [Original Drift Keyboard](https://github.com/Timception/Drift)  
 
@@ -31,7 +31,7 @@
 
   - You can see that I have placed shift on the left-most thumb cluster key, and backspace on the right-most thumb cluster key. As well as putting the spacebar in the middle of each thumb cluster because some people hit the spacebar with their left thumb, while others may hit the spacebar with their right thumb.  
 
-  - You can [change the keys on your keymap](https://github.com/Timception/zmk-config-drift-v3-editor/tree/main/How%20to%20Change%20your%20Keymap) if you prefer different placing of any key.  
+  - You can [change the keys on your keymap](/docs/change-keys/) if you prefer different placing of any key.  
 
 
 > [!Note]  
@@ -69,7 +69,7 @@
 
 This version of the Drift Keyboard supports:  
 
- - 5-Pin Cherry MX switches (3-Pin switches will also work)  
+ - 5-Pin MX switches (3-Pin switches will also work)  
  - Kailh Choc V1 switches  
  - Kailh Choc V2 switches  
 <br/>  
@@ -91,6 +91,8 @@ How to [change your build](/docs/low-profile/) to use choc switches.
 >Disclaimer: I am not responsible for any damage, injury, or loss resulting from the use,
 >charging, or installation of LiPo batteries. Use at your own risk and follow all safety guidelines
 >provided by the battery manufacturer.  
+>  
+>More on how to install batteries [here](/docs/batteries/)  
 <br/><br/>  
 
 You can see more actual builds [HERE](https://www.instagram.com/majin.keyboards)  
