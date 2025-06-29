@@ -2,8 +2,15 @@
 
 ### Summary of actions  
 
-  - Login to GitHub > Clone/Fork Repository > Enable Actions > Enable Keymap Editor by Nick Coutsos > Download New Firmware > Flash Keyboard one side at a time  
+  - Login to GitHub  
+  - Clone/Fork Repository  
+  - Enable Actions  
+  - Enable Keymap Editor by Nick Coutsos  
+  - Download New Firmware  
+  - Flash Keyboard one side at a time  
 <br/><br/>  
+
+### Detailed step by step guide:  
 
 1. Fork [This Repository](https://github.com/Timception/zmk-config-drift-v3-editor)  
 
