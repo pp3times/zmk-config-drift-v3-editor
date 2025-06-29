@@ -2,21 +2,19 @@
 
 ## Contents:  
 
- - [3D Printables for PS3 Controller Battery Pack](https://github.com/Timception/zmk-config-drift-v3-editor/tree/main/PS3%20Battery%20Pack%20Assembly/Drift-V3-Battery-Expansion)  
+ - [3D Printables for PS3 Controller Battery Pack](https://github.com/Timception/3d-printables/tree/main/v3/battery-pack) - Battery pack and bottom part
  
- - [3D Printables for the Bottom Part/Plate](https://github.com/Timception/zmk-config-drift-v3-editor/tree/main/PS3%20Battery%20Pack%20Assembly/Drift-V3-Bottom-Pieces)  
- 
- - [Batteries tested to work with the keyboard](#batteries-tested-to-work-with-the-keyboard)  
+ - [Batteries tested to work with the keyboard](#batteries-tested-to-work-with-the-keyboard) - Some batteries you can use for this keyboard  
    
- - [Screwing on the PS3 controller battery pack](#screwing-on-the-ps3-controller-battery-pack)  
+ - [Screwing on the PS3 controller battery pack](#screwing-on-the-ps3-controller-battery-pack) - Assembly guide  
  
- - [Plugging in the Battery Connector](#plugging-in-the-battery-connector)  
+ - [Plugging in the Battery Connector](#plugging-in-the-battery-connector) - Hooking up the battery  
  
- - [Plugging in the 4-Pin OLED](#plugging-in-the-4-pin-oled)  
+ - [Plugging in the 4-Pin OLED](#plugging-in-the-4-pin-oled) - Standard (power hungry) OLED  
  
- - [Using the 110mAh LiPo Battery instead](#using-the-110mAh-lipo-battery-instead)  
+ - [Using the 110mAh LiPo Battery instead](#using-the-110mAh-lipo-battery-instead) - the smaller battery option (removing the OLED dramatically improves battery life)  
 
- - [Replacing the 4-Pin OLED with a NiceView](#replacing-the-4-pin-oled-with-a-niceview)  
+ - [Replacing the 4-Pin OLED with a NiceView](#replacing-the-4-pin-oled-with-a-niceview) - Best screen to use if you install the 110mAh battery  
 <br/><br/>
 
 >[!Warning]
@@ -193,10 +191,11 @@
 26. You can replace the normal OLED with a super efficient screen famously known as the [Nice!View](https://nicekeyboards.com/nice-view/)
 
 > [!Warning]  
-> You will need to flash a [special version of firmware](https://github.com/Timception/zmk-config-drift-nice_view-editor) on to both sides before inserting the Nice!View
+> You will need to flash a [special version of firmware](https://github.com/Timception/zmk-config-drift-v3-nv-editor) on to both sides before inserting the Nice!View
 > 
 <img src="images/NiceView.jpg" width="500"><br/><br/>
 
 
 > [!Note]
-> If you forgot how to fork and compile your own firmware, [please refer to this guide](https://github.com/Timception/zmk-config-drift-v3-editor/tree/main/How%20to%20Change%20your%20Keymap)
+> If you forgot how to fork and compile your own firmware, [please refer to this guide](https://github.com/Timception/zmk-config-drift-v3-editor/tree/main/docs/change-keys)
+<br/><br/>  
