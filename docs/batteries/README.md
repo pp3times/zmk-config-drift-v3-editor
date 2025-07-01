@@ -12,8 +12,15 @@
  
  - [Plugging in the 4-Pin OLED](#plugging-in-the-4-pin-oled) - Standard (power hungry) OLED  
  
+
+## Alternate Battery:  
+ 
  - [Using the 110mAh LiPo Battery](#using-the-110mAh-lipo-battery-instead) - the smaller battery option (removing the OLED dramatically improves battery life)  
 
+
+
+## Alternate Display:  
+ 
  - [Replacing the 4-Pin OLED with a NiceView](#replacing-the-4-pin-oled-with-a-niceview) - Best screen to use if you install the 110mAh battery  
 <br/><br/>
 
@@ -146,7 +153,7 @@
 <img src="images/18.jpg" width="500"><br/><br/>
 
 
-## Using the 110mAh LiPo Battery instead  
+# Using the 110mAh LiPo Battery instead  
 
 19. Remove the MCU carefully with a switch puller.  
 
@@ -183,7 +190,7 @@
 <img src="images/25.jpg" width="500"><br/><br/>
 
 
-## Replacing the 4-Pin OLED with a NiceView
+# Replacing the 4-Pin OLED with a NiceView
 
 26. You can replace the normal OLED with a super efficient screen famously known as the [Nice!View](https://nicekeyboards.com/nice-view/)
 
