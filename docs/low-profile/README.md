@@ -10,7 +10,7 @@ This is how to convert to a low-profile choc version:
  
  - The top screws under the keys should be changed to 4mm M2 screws if they are not already that length.  
  
- - You will need to use the [Choc Plate](https://github.com/Timception/3d-printables/tree/main/v3/plates) which slightly different from the MX switch plate.  
+ - You will need to use the [Choc Plate](https://github.com/Timception/3d-printables/tree/main/v3/plates/low-profile) which is slightly different from the MX switch plate.  
  <br/><br/>  
  
 ### This is what your Drift Keyboard should look like after the conversion:  
