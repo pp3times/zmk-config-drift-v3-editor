@@ -27,11 +27,13 @@
 
 # Default Keymap
 
-  - If you don't already know, this keyboard comes with open source firmware from [ZMK](https://zmk.dev/) that allows you to have more keys than you can see on your keyboard because they are on "extra layers" that you can access by pressing layer keys similar to the "Fn" (function) key on a laptop or notebook to access volume control or screen brightness etc.  
+  - This keyboard is powered by [ZMK](https://zmk.dev/), an open‑source firmware. ZMK lets you place several “layers” of key functions on the same physical keys. When you press a designated layer key—much like holding "Fn" on a laptop—the keyboard shifts to a different layer, giving you extra controls (for example, volume, brightness, or any custom shortcuts) without adding more keys.  
 
-  - Split Keyboards have some terminology and one that I would like to introduce you to is the "Thumb Cluster". The thumb cluster consists of the keys where you would normally press the spacebar. Split Keyboards make much better use of this area and allow you to place and customize more useful keys in this area so you don't have to reach so far to press them.  
+  - Split keyboards come with their own set of terms, and one important one to know is the “thumb cluster.” This refers to the group of keys at the bottom in the form of an arc where a traditional keyboard would have the spacebar.  
+    
+  - Unlike standard keyboards, split keyboards make better use of this space by letting you place and customize useful keys there. This reduces the need to reach for commonly used keys.  
 
-  - You can see that I have placed shift on the left-most thumb cluster key, and backspace on the right-most thumb cluster key. As well as putting the spacebar in the middle of each thumb cluster because some people hit the spacebar with their left thumb, while others may hit the spacebar with their right thumb.  
+  - For example, on this keyboard, I’ve placed Shift on the left-most thumb cluster key and Backspace on the right-most. The spacebar is in the center of each thumb cluster—so whether you hit the spacebar with your left or right thumb, it’s easy to reach.  
 
   - You can [change the keys on your keymap](/docs/change-keys/) if you prefer different placing of any key.  
 
