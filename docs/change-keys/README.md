@@ -80,7 +80,7 @@ This confirms that you can now make your own firmware. Next, let's try and chang
 
 <img src="images/17.png" width="600"><br/><br/><br/>  
 
-### 18. Click the Layer Numbers to View Hidden Functions  
+### 18. Click the Layer Numbers to View the Keys on Each of those layers  
 
 <img src="images/18.png" width="600"><br/><br/><br/>  
 
