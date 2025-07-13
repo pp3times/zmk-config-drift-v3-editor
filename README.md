@@ -1,4 +1,4 @@
-## Drift Keyboard V3 by Timception  
+## Drift Keyboard V3 by Timception - Dual Roller Encoder Firmware   
 
 - This is the wireless [ZMK](https://zmk.dev/) version of the [Original Drift Keyboard](https://github.com/Timception/Drift)  
 
