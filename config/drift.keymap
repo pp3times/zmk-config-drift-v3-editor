@@ -30,6 +30,7 @@
             compatible = "zmk,behavior-sensor-rotate-var";
             #sensor-binding-cells = <2>;
             bindings = <&msc>, <&msc>;
+
             tap-ms = <20>;
         };
     };
@@ -48,14 +49,16 @@
             //                                      | SHIFT | SPACE | LOWER |                   | RAISE | SPACE | BKSPC |
 
             bindings = <
-&kp ESC    &kp ESC        &kp GRAVE  &kp N1  &kp N2  &kp N3     &kp N4     &kp N5                             &kp N6     &kp N7     &kp N8     &kp N9   &kp N0    &kp MINUS  &kp EQUAL  &kp BSPC
-&kp LC(C)  &kp RS(LG(S))  &kp TAB    &kp Q   &kp W   &kp E      &kp R      &kp T                              &kp Y      &kp U      &kp I      &kp O    &kp P     &kp LBKT   &kp RBKT   &kp BSLH
-           &kp LGUI       &kp CAPS   &kp A   &kp S   &kp D      &kp F      &kp G                              &kp H      &kp J      &kp K      &kp L    &kp SEMI  &kp SQT    &kp ENTER
-&kp LC(V)  &kp LCTRL      &kp LALT   &kp Z   &kp X   &kp C      &kp V      &kp B      &kp C_MUTE  &kp C_MUTE  &kp N      &kp M      &kp COMMA  &kp DOT  &kp FSLH  &kp RALT   &kp RCTRL  &kp DEL
-                                                     &kp LSHFT  &kp SPACE  &mo LOWER                          &mo RAISE  &kp SPACE  &kp BSPC
+&kp ESC    &kp ESC         &kp GRAVE  &kp N1  &kp N2  &kp N3        &kp N4     &kp N5                             &kp N6     &kp N7     &kp N8     &kp N9   &kp N0    &kp MINUS  &kp EQUAL  &kp BSPC
+&kp LC(C)  &kp RS(LG(S))   &kp TAB    &kp Q   &kp W   &kp E         &kp R      &kp T                              &kp Y      &kp U      &kp I      &kp O    &kp P     &kp LBKT   &kp RBKT   &kp BSLH
+           &kp LEFT_SHIFT  &kp CAPS   &kp A   &kp S   &kp D         &kp F      &kp G                              &kp H      &kp J      &kp K      &kp L    &kp SEMI  &kp SQT    &kp ENTER
+&kp LC(V)  &kp LCTRL       &kp LALT   &kp Z   &kp X   &kp C         &kp V      &kp B      &kp C_MUTE  &kp C_MUTE  &kp N      &kp M      &kp COMMA  &kp DOT  &kp FSLH  &kp RALT   &kp RCTRL  &kp DEL
+                                                      &kp LEFT_GUI  &kp SPACE  &mo LOWER                          &mo RAISE  &kp SPACE  &kp BSPC
             >;
 
-            sensor-bindings = <&enc_scroll SCRL_UP SCRL_DOWN>, <&inc_dec_kp C_VOL_UP C_VOL_DN>;
+            sensor-bindings =
+                <&enc_scroll SCRL_UP SCRL_DOWN>,
+                <&inc_dec_kp C_VOL_UP C_VOL_DN>;
         };
 
         lower_layer {
@@ -69,14 +72,16 @@
             //                                        | SHIFT | SPACE | LOWER |                   | RAISE | SPACE | BKSPC |
 
             bindings = <
-&bootloader  &kp ESC     &kp GRAVE  &kp F1  &kp F2  &kp F3     &kp F4     &kp F5                              &kp F6  &kp F7     &kp F8     &kp F9   &kp F10   &kp F11   &kp F12        &kp BSPC
-&kp LC(C)    &trans      &kp TAB    &kp Q   &kp W   &kp E      &kp R      &kp T                               &kp Y   &kp U      &kp I      &kp O    &kp P     &kp LBKT  &kp BACKSLASH  &kp BSLH
-             &kp LGUI    &kp CAPS   &kp A   &kp S   &kp D      &kp F      &kp G                               &kp H   &kp J      &kp K      &kp L    &kp SEMI  &kp SQT   &kp UP
-&kp LC(V)    &kp LCTRL   &kp LALT   &kp Z   &kp X   &kp C      &kp V      &kp B   &kp C_MUTE      &kp C_MUTE  &kp N   &kp M      &kp COMMA  &kp DOT  &kp FSLH  &kp LEFT  &kp DOWN       &kp RIGHT
-                                                    &kp LSHFT  &kp SPACE  &trans                              &trans  &kp SPACE  &kp DEL
+&bootloader  &kp ESC    &kp GRAVE  &kp F1  &kp F2  &kp F3     &kp F4     &kp F5                          &kp F6  &kp F7     &kp F8     &kp F9   &kp F10   &kp F11   &kp F12        &kp BSPC
+&kp LC(C)    &trans     &kp TAB    &kp Q   &kp W   &kp E      &kp R      &kp T                           &kp Y   &kp U      &kp I      &kp O    &kp P     &kp LBKT  &kp BACKSLASH  &kp BSLH
+             &kp LGUI   &kp CAPS   &kp A   &kp S   &kp D      &kp F      &kp G                           &kp H   &kp J      &kp K      &kp L    &kp SEMI  &kp SQT   &kp UP
+&kp LC(V)    &kp LCTRL  &kp LALT   &kp Z   &kp X   &kp C      &kp V      &kp B   &kp C_MUTE  &kp C_MUTE  &kp N   &kp M      &kp COMMA  &kp DOT  &kp FSLH  &kp LEFT  &kp DOWN       &kp RIGHT
+                                                   &kp LSHFT  &kp SPACE  &trans                          &trans  &kp SPACE  &kp DEL
             >;
 
-            sensor-bindings = <&enc_scroll SCRL_UP SCRL_DOWN>, <&inc_dec_kp C_VOL_UP C_VOL_DN>;
+            sensor-bindings =
+                <&enc_scroll SCRL_UP SCRL_DOWN>,
+                <&inc_dec_kp C_VOL_UP C_VOL_DN>;
         };
 
         raise_layer {
@@ -90,14 +95,16 @@
             //                                           | SHIFT | SPACE | LOWER |                   | RAISE | SPACE | BKSPC |
 
             bindings = <
-&bt BT_CLR  &bt BT_CLR      &bt BT_CLR_ALL  &bt BT_SEL 0  &bt BT_SEL 1  &bt BT_SEL 2  &bt BT_SEL 3  &bt BT_SEL 4                              &kp F6  &kp F7     &kp F8     &kp F9   &kp F10   &kp F11         &msc SCRL_UP    &bootloader
-&kp LC(C)   &trans          &kp TAB         &kp Q         &kp W         &kp E         &kp R         &kp T                                     &kp Y   &kp U      &kp I      &kp O    &kp P     &mkp MCLK       &msc SCRL_DOWN  &mkp RCLK
-            &kp LGUI        &kp CAPS        &kp A         &kp S         &kp D         &kp F         &kp G                                     &kp H   &kp J      &kp K      &kp L    &kp SEMI  &mkp LCLK       &mmv MOVE_UP
-&kp LC(V)   &kp LCTRL       &kp LALT        &kp Z         &kp X         &kp C         &kp V         &kp B         &kp C_MUTE      &kp C_MUTE  &kp N   &kp M      &kp COMMA  &kp DOT  &kp FSLH  &mmv MOVE_LEFT  &mmv MOVE_DOWN  &mmv MOVE_RIGHT
-                                                                        &kp LSHFT     &kp SPACE     &trans                                    &trans  &kp SPACE  &kp DEL
+&bt BT_CLR  &bt BT_CLR  &bt BT_CLR_ALL  &bt BT_SEL 0  &bt BT_SEL 1  &bt BT_SEL 2  &bt BT_SEL 3  &bt BT_SEL 4                          &kp F6  &kp F7     &kp F8     &kp F9   &kp F10   &kp F11         &msc SCRL_UP    &bootloader
+&kp LC(C)   &trans      &kp TAB         &kp Q         &kp W         &kp E         &kp R         &kp T                                 &kp Y   &kp U      &kp I      &kp O    &kp P     &mkp MCLK       &msc SCRL_DOWN  &mkp RCLK
+            &kp LGUI    &kp CAPS        &kp A         &kp S         &kp D         &kp F         &kp G                                 &kp H   &kp J      &kp K      &kp L    &kp SEMI  &mkp LCLK       &mmv MOVE_UP
+&kp LC(V)   &kp LCTRL   &kp LALT        &kp Z         &kp X         &kp C         &kp V         &kp B         &kp C_MUTE  &kp C_MUTE  &kp N   &kp M      &kp COMMA  &kp DOT  &kp FSLH  &mmv MOVE_LEFT  &mmv MOVE_DOWN  &mmv MOVE_RIGHT
+                                                                    &kp LSHFT     &kp SPACE     &trans                                &trans  &kp SPACE  &kp DEL
             >;
 
-            sensor-bindings = <&enc_scroll SCRL_UP SCRL_DOWN>, <&inc_dec_kp C_VOL_UP C_VOL_DN>;
+            sensor-bindings =
+                <&enc_scroll SCRL_UP SCRL_DOWN>,
+                <&inc_dec_kp C_VOL_UP C_VOL_DN>;
         };
 
         adjust_layer {
@@ -110,14 +117,16 @@
 
             display-name = "adjust";
             bindings = <
-&bt BT_CLR  &bt BT_CLR      &bt BT_CLR_ALL  &bt BT_SEL 0  &bt BT_SEL 1  &bt BT_SEL 2  &bt BT_SEL 3  &bt BT_SEL 4                          &kp F6  &kp F7     &kp F8     &kp F9   &kp F10   &kp F11         &msc SCRL_UP    &bt BT_CLR
-&kp LC(C)   &trans          &kp TAB         &kp Q         &kp W         &kp E         &kp R         &kp T                                 &kp Y   &kp U      &kp I      &kp O    &kp P     &kp LBKT        &msc SCRL_DOWN  &mkp RCLK
-            &kp LGUI        &kp CAPS        &kp A         &kp S         &kp D         &kp F         &kp G                                 &kp H   &kp J      &kp K      &kp L    &kp SEMI  &mkp LCLK       &mmv MOVE_UP
-&kp LC(V)   &kp LCTRL       &kp LALT        &kp Z         &kp X         &kp C         &kp V         &kp B         &kp C_MUTE  &kp C_MUTE  &kp N   &kp M      &kp COMMA  &kp DOT  &kp FSLH  &mmv MOVE_LEFT  &mmv MOVE_DOWN  &mmv MOVE_RIGHT
-                                                                        &kp LSHFT     &kp SPACE     &trans                                &trans  &kp SPACE  &kp BSPC
+&bt BT_CLR  &bt BT_CLR  &bt BT_CLR_ALL  &bt BT_SEL 0  &bt BT_SEL 1  &bt BT_SEL 2  &bt BT_SEL 3  &bt BT_SEL 4                          &kp F6  &kp F7     &kp F8     &kp F9   &kp F10   &kp F11         &msc SCRL_UP    &bt BT_CLR
+&kp LC(C)   &trans      &kp TAB         &kp Q         &kp W         &kp E         &kp R         &kp T                                 &kp Y   &kp U      &kp I      &kp O    &kp P     &kp LBKT        &msc SCRL_DOWN  &mkp RCLK
+            &kp LGUI    &kp CAPS        &kp A         &kp S         &kp D         &kp F         &kp G                                 &kp H   &kp J      &kp K      &kp L    &kp SEMI  &mkp LCLK       &mmv MOVE_UP
+&kp LC(V)   &kp LCTRL   &kp LALT        &kp Z         &kp X         &kp C         &kp V         &kp B         &kp C_MUTE  &kp C_MUTE  &kp N   &kp M      &kp COMMA  &kp DOT  &kp FSLH  &mmv MOVE_LEFT  &mmv MOVE_DOWN  &mmv MOVE_RIGHT
+                                                                    &kp LSHFT     &kp SPACE     &trans                                &trans  &kp SPACE  &kp BSPC
             >;
 
-            sensor-bindings = <&enc_scroll SCRL_UP SCRL_DOWN>, <&inc_dec_kp C_VOL_UP C_VOL_DN>;
+            sensor-bindings =
+                <&enc_scroll SCRL_UP SCRL_DOWN>,
+                <&inc_dec_kp C_VOL_UP C_VOL_DN>;
         };
     };
 };
